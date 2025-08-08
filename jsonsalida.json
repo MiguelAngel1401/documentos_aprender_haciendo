@@ -1,0 +1,2032 @@
+
+
+{
+    "status": "completo",
+    "informe": {
+        "etapas_phva": [
+            {
+                "etapa": "PLANEAR",
+                "peso_etapa": 0.35,
+                "puntaje_etapa": 0.291,
+                "capitulos": [
+                    {
+                        "id_capter": "4",
+                        "sections_of_the_capter": [
+                            {
+                                "id_section": "4.1",
+                                "name_section": "Conocimiento de la organización y de su contexto",
+                                "areas_for_improvement": [
+                                    "Formalizar y documentar el proceso de revisión trimestral para asegurar trazabilidad y evidencia objetiva.",
+                                    "Considerar ampliar el análisis de cuestiones externas e internas para incluir posibles impactos futuros no contemplados en el análisis FODA actual."
+                                ],
+                                "fulfilled_aspects": [
+                                    "La organización identifica y documenta cuestiones internas y externas relevantes mediante análisis FODA anual.",
+                                    "Existe un proceso de seguimiento y revisión periódica (trimestral) de las cuestiones identificadas por el comité directivo."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿La organización ha identificado las cuestiones externas e internas relevantes para su propósito?",
+                                        "id_question": "4.1.0.1",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Existe un proceso establecido para dar seguimiento y revisar dichas cuestiones periódicamente?",
+                                        "id_question": "4.1.0.2",
+                                        "evaluation": "PARCIAL"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 1,
+                                    "parcial": 1,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.75
+                            },
+                            {
+                                "id_section": "4.2",
+                                "name_section": "Comprensión de las necesidades y expectativas de las partes interesadas",
+                                "areas_for_improvement": [
+                                    "Documentar formalmente el proceso de revisión y actualización de requisitos de las partes interesadas para evidenciar continuidad.",
+                                    "Ampliar la identificación de partes interesadas para incluir posibles grupos emergentes o indirectos que puedan afectar el SGC."
+                                ],
+                                "fulfilled_aspects": [
+                                    "La organización ha identificado claramente las partes interesadas pertinentes al sistema de gestión de calidad.",
+                                    "Se realiza revisión y comprensión periódica de los requisitos de las partes interesadas mediante encuestas, auditorías y comunicación directa."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿La organización ha identificado a todas las partes interesadas pertinentes?",
+                                        "id_question": "4.2.0.1",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿La organización comprende y revisa sus requisitos con regularidad?",
+                                        "id_question": "4.2.0.2",
+                                        "evaluation": "COMPLETO"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 2,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            },
+                            {
+                                "id_section": "4.3",
+                                "name_section": "Determinación del alcance del sistema de gestión de calidad",
+                                "areas_for_improvement": [
+                                    "Mantener actualizada la documentación del alcance y revisar periódicamente las justificaciones de exclusiones para asegurar vigencia.",
+                                    "Asegurar que todas las partes interesadas conozcan el alcance definido y sus limitaciones para evitar malentendidos."
+                                ],
+                                "fulfilled_aspects": [
+                                    "El alcance del sistema de gestión de calidad está claramente definido y documentado en el manual de calidad.",
+                                    "Se incluye justificación clara y adecuada para los requisitos no aplicables, como la exclusión del diseño de producto."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿La organización ha definido claramente el alcance de su sistema de gestión de calidad?",
+                                        "id_question": "4.3.0.1",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Incluye el alcance una justificación clara para los requisitos que no son aplicables?",
+                                        "id_question": "4.3.0.2",
+                                        "evaluation": "COMPLETO"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 2,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            },
+                            {
+                                "id_section": "4.4",
+                                "name_section": "Sistema de Gestión de Calidad y sus Procesos",
+                                "areas_for_improvement": [
+                                    "Fortalecer la evidencia documental de la revisión y mejora continua de procesos.",
+                                    "Incluir en la documentación los riesgos y oportunidades asociados a cada proceso conforme a los requisitos del capítulo 6.1.",
+                                    "Asegurar que la capacitación del personal esté alineada con las responsabilidades asignadas en los procesos."
+                                ],
+                                "fulfilled_aspects": [
+                                    "Los procesos necesarios para el sistema de gestión de calidad están claramente determinados y mapeados.",
+                                    "Se utilizan indicadores de desempeño clave para medir y hacer seguimiento al desempeño de los procesos.",
+                                    "La documentación del sistema es adecuada, controlada y accesible para respaldar la operación de los procesos."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Se han determinado claramente los procesos necesarios para el SGC?",
+                                        "id_question": "4.4.0.1",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Existen métodos definidos para medir y hacer seguimiento al desempeño de los procesos?",
+                                        "id_question": "4.4.0.2",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿La documentación del sistema es adecuada para respaldar la operación de los procesos?",
+                                        "id_question": "4.4.0.3",
+                                        "evaluation": "COMPLETO"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 3,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            }
+                        ],
+                        "chapter_average_score": 0.938,
+                        "chapter_system_score": 0.141
+                    },
+                    {
+                        "id_capter": "5",
+                        "sections_of_the_capter": [
+                            {
+                                "id_section": "5.1",
+                                "name_section": "Liderazgo y compromiso",
+                                "areas_for_improvement": [],
+                                "fulfilled_aspects": [
+                                    "La alta dirección asume responsabilidad y rendición de cuentas sobre la eficacia del sistema de gestión de la calidad.",
+                                    "La política y los objetivos de calidad están establecidos y son compatibles con la dirección estratégica de la organización.",
+                                    "Los requisitos del sistema de gestión de la calidad están integrados en los procesos de negocio.",
+                                    "Se promueve el uso del enfoque basado en procesos y pensamiento basado en riesgos.",
+                                    "Se aseguran los recursos necesarios para el sistema de gestión de la calidad.",
+                                    "Se comunica la importancia de una gestión eficaz y conforme con los requisitos.",
+                                    "El sistema de gestión logra los resultados previstos y se evalúa mediante auditorías internas.",
+                                    "La alta dirección involucra, dirige y apoya al personal para contribuir a la eficacia del sistema.",
+                                    "Se promueve la mejora continua mediante planes de acción y revisión de indicadores.",
+                                    "La alta dirección apoya a otras funciones para demostrar liderazgo y responsabilidad.",
+                                    "Se determina, comprende y cumple los requisitos del cliente y legales aplicables.",
+                                    "Se abordan riesgos y oportunidades que afectan la satisfacción del cliente.",
+                                    "Se mantiene el enfoque en proporcionar productos y servicios conformes y en aumentar la satisfacción del cliente."
+                                ],
+                                "questions_of_the_section": null,
+                                "subsections": [
+                                    {
+                                        "id_subsection": "5.1.1",
+                                        "name_subsection": "Liderazgo y compromiso para el sistema de gestión de la calidad",
+                                        "areas_for_improvement": [],
+                                        "fulfilled_aspects": [
+                                            "La alta dirección toma responsabilidad de la eficacia del sistema de gestión de la calidad mediante revisiones periódicas.",
+                                            "La política de calidad y objetivos son compatibles con la dirección estratégica y se revisan anualmente.",
+                                            "La política de calidad es comunicada, entendida y aplicada dentro de la organización.",
+                                            "Los requisitos del sistema de gestión están integrados en los procesos de negocio.",
+                                            "Se promueve el enfoque basado en procesos mediante diagramas de flujo y documentación.",
+                                            "Se aseguran los recursos necesarios asignados en presupuesto anual.",
+                                            "Se comunica la importancia de una gestión eficaz y conforme con los requisitos en inducción y capacitaciones.",
+                                            "El sistema logra los resultados previstos evaluados en auditorías internas.",
+                                            "La alta dirección involucra, dirige y apoya al personal mediante liderazgo directo y comunicación continua.",
+                                            "Se promueve la mejora continua con planes de acción y revisión de indicadores.",
+                                            "La dirección apoya otros roles pertinentes con definición clara de responsabilidades."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿La alta dirección toma responsabilidad de la eficacia del sistema de gestión de la calidad?",
+                                                "id_question": "5.1.1.1",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se establecen la política de calidad y los objetivos compatibles con la dirección estratégica?",
+                                                "id_question": "5.1.1.2",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿La política de calidad es comunicada, entendida y aplicada dentro de la organización?",
+                                                "id_question": "5.1.1.3",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se integran los requisitos del sistema de gestión en los procesos de negocio?",
+                                                "id_question": "5.1.1.4",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se promueve el enfoque basado en procesos?",
+                                                "id_question": "5.1.1.5",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se aseguran los recursos necesarios para el sistema de gestión de la calidad?",
+                                                "id_question": "5.1.1.6",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se comunica la importancia de una gestión eficaz y conforme con los requisitos?",
+                                                "id_question": "5.1.1.7",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿El sistema de gestión logra los resultados previstos?",
+                                                "id_question": "5.1.1.8",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿La alta dirección involucra, dirige y apoya al personal para contribuir a la eficacia del sistema?",
+                                                "id_question": "5.1.1.9",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se promueve la mejora continua?",
+                                                "id_question": "5.1.1.10",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿La dirección apoya otros roles pertinentes para demostrar liderazgo y responsabilidad?",
+                                                "id_question": "5.1.1.11",
+                                                "evaluation": "COMPLETO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 11,
+                                            "parcial": 0,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 1.0
+                                    },
+                                    {
+                                        "id_subsection": "5.1.2",
+                                        "name_subsection": "Enfoque al cliente",
+                                        "areas_for_improvement": [],
+                                        "fulfilled_aspects": [
+                                            "Se determinan, comprenden y cumplen los requisitos del cliente y legales aplicables mediante seguimiento continuo.",
+                                            "Se abordan riesgos y oportunidades que pueden afectar la satisfacción del cliente mediante análisis de riesgos.",
+                                            "Se mantienen productos y servicios conformes con los requisitos del cliente mediante controles de calidad definidos.",
+                                            "Se mantiene el enfoque en aumentar la satisfacción del cliente, medido regularmente con encuestas."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Se determinan y cumplen los requisitos del cliente y los legales aplicables?",
+                                                "id_question": "5.1.2.1",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se tratan riesgos y oportunidades que pueden afectar la satisfacción del cliente?",
+                                                "id_question": "5.1.2.2",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se mantienen productos y servicios coherentes con los requisitos del cliente?",
+                                                "id_question": "5.1.2.3",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se mantiene el enfoque en aumentar la satisfacción del cliente?",
+                                                "id_question": "5.1.2.4",
+                                                "evaluation": "COMPLETO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 4,
+                                            "parcial": 0,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 1.0
+                                    }
+                                ],
+                                "counts_sum": {
+                                    "completo": 15,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            },
+                            {
+                                "id_section": "5.2",
+                                "name_section": "Política de la Calidad",
+                                "areas_for_improvement": [],
+                                "fulfilled_aspects": [
+                                    "La política de calidad es adecuada al propósito y contexto de la organización y se revisa según análisis del contexto.",
+                                    "La política proporciona un marco de referencia para el establecimiento de objetivos de calidad.",
+                                    "La política incluye compromiso explícito para cumplir requisitos aplicables y para la mejora continua.",
+                                    "La política está documentada, comunicada y disponible para las partes interesadas pertinentes."
+                                ],
+                                "questions_of_the_section": null,
+                                "subsections": [
+                                    {
+                                        "id_subsection": "5.2.1",
+                                        "name_subsection": "Contenido de la política de calidad",
+                                        "areas_for_improvement": [],
+                                        "fulfilled_aspects": [
+                                            "La política es adecuada al propósito y contexto de la organización.",
+                                            "La política proporciona un marco de referencia para objetivos de calidad.",
+                                            "Incluye compromiso de cumplir requisitos aplicables.",
+                                            "Incluye compromiso de mejora continua."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿La política es adecuada al propósito y contexto de la organización?",
+                                                "id_question": "5.2.1.1",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿La política proporciona un marco de referencia para objetivos de calidad?",
+                                                "id_question": "5.2.1.2",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Incluye el compromiso de cumplir requisitos aplicables?",
+                                                "id_question": "5.2.1.3",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Incluye el compromiso de mejora continua?",
+                                                "id_question": "5.2.1.4",
+                                                "evaluation": "COMPLETO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 4,
+                                            "parcial": 0,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 1.0
+                                    },
+                                    {
+                                        "id_subsection": "5.2.2",
+                                        "name_subsection": "Comunicación y disponibilidad",
+                                        "areas_for_improvement": [],
+                                        "fulfilled_aspects": [
+                                            "La política está disponible como información documentada en el sistema de gestión documental.",
+                                            "Se comunica, entiende y aplica dentro de la organización.",
+                                            "Está disponible para partes interesadas pertinentes cuando es necesario."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿La política está disponible como información documentada?",
+                                                "id_question": "5.2.2.1",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se comunica, entiende y aplica dentro de la organización?",
+                                                "id_question": "5.2.2.2",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Está disponible para partes interesadas pertinentes?",
+                                                "id_question": "5.2.2.3",
+                                                "evaluation": "COMPLETO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 3,
+                                            "parcial": 0,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 1.0
+                                    }
+                                ],
+                                "counts_sum": {
+                                    "completo": 7,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            },
+                            {
+                                "id_section": "5.3",
+                                "name_section": "Roles, responsabilidades y autoridades en la organización",
+                                "areas_for_improvement": [],
+                                "fulfilled_aspects": [
+                                    "Se asignan, comunican y entienden responsabilidades y autoridades mediante descripciones de puesto y organigramas.",
+                                    "Se asegura la conformidad con los requisitos del sistema de gestión de calidad mediante auditorías internas y seguimiento.",
+                                    "Se asegura que los procesos entregan los resultados previstos mediante KPIs y revisiones periódicas.",
+                                    "Se informa sobre desempeño, mejoras y necesidades de cambio a la alta dirección mediante reportes mensuales.",
+                                    "Se promueve el enfoque al cliente como parte de la cultura organizacional.",
+                                    "Se mantiene la integridad del sistema de gestión de calidad ante cambios mediante procedimientos de gestión del cambio."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Se asignan, comunican y entienden las responsabilidades y autoridades pertinentes?",
+                                        "id_question": "5.3.0.1",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Se asegura la conformidad con los requisitos del sistema de gestión de calidad?",
+                                        "id_question": "5.3.0.2",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Se asegura que los procesos generan los resultados esperados?",
+                                        "id_question": "5.3.0.3",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Se informa sobre desempeño, mejoras y necesidad de cambio?",
+                                        "id_question": "5.3.0.4",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Se promueve el enfoque al cliente en toda la organización?",
+                                        "id_question": "5.3.0.5",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Se mantiene la integridad del sistema ante cambios?",
+                                        "id_question": "5.3.0.6",
+                                        "evaluation": "COMPLETO"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 6,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            }
+                        ],
+                        "chapter_average_score": 1.0,
+                        "chapter_system_score": 0.1
+                    },
+                    {
+                        "id_capter": "6",
+                        "sections_of_the_capter": [
+                            {
+                                "id_section": "6.1",
+                                "name_section": "Acciones para tratar riesgos y oportunidades",
+                                "areas_for_improvement": [
+                                    "Actualizar con mayor frecuencia la consideración de cuestiones internas y externas para reflejar cambios en el entorno.",
+                                    "Ampliar la matriz de riesgos y oportunidades para incluir todos los procesos y establecer revisiones sistemáticas.",
+                                    "Fortalecer la gestión proactiva de riesgos para reducir la predominancia de acciones reactivas.",
+                                    "Incluir explícitamente la mejora continua como un objetivo en todos los planes relacionados con riesgos y oportunidades.",
+                                    "Completar la integración de acciones en todos los procesos con responsables claros y documentados.",
+                                    "Implementar una evaluación formal y periódica de la eficacia de las acciones para tratar riesgos y oportunidades."
+                                ],
+                                "fulfilled_aspects": [
+                                    "La organización considera cuestiones internas y externas al planificar el sistema de gestión de calidad, aunque con limitaciones.",
+                                    "Se han identificado riesgos y oportunidades mediante una matriz, existiendo un esfuerzo por abordarlos.",
+                                    "Se han logrado los resultados previstos en los objetivos clave del sistema de gestión de calidad.",
+                                    "Se planifican acciones para tratar riesgos y oportunidades.",
+                                    "Se han integrado parcialmente las acciones en los procesos del sistema de gestión de calidad.",
+                                    "Se realiza seguimiento general a las acciones implementadas."
+                                ],
+                                "questions_of_the_section": null,
+                                "subsections": [
+                                    {
+                                        "id_subsection": "6.1.1",
+                                        "name_subsection": "Generalidades",
+                                        "areas_for_improvement": [
+                                            "Actualizar con mayor frecuencia la consideración de cuestiones internas y externas para reflejar cambios en el entorno.",
+                                            "Ampliar la matriz de riesgos y oportunidades para incluir todos los procesos y establecer revisiones sistemáticas.",
+                                            "Fortalecer la gestión proactiva de riesgos para reducir la predominancia de acciones reactivas.",
+                                            "Incluir explícitamente la mejora continua como un objetivo en todos los planes relacionados con riesgos y oportunidades."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "La organización considera cuestiones internas y externas al planificar el sistema de gestión de calidad, aunque con limitaciones.",
+                                            "Se han identificado riesgos y oportunidades mediante una matriz, existiendo un esfuerzo por abordarlos.",
+                                            "Se han logrado los resultados previstos en los objetivos clave del sistema de gestión de calidad.",
+                                            "Existen medidas para prevenir o reducir efectos indeseados.",
+                                            "Se reconoce la mejora continua como un área en desarrollo."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿La organización considera las cuestiones internas y externas al planificar el sistema de gestión de calidad?",
+                                                "id_question": "6.1.1.1",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se determinan los riesgos y oportunidades necesarios a tratar?",
+                                                "id_question": "6.1.1.2",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se asegura que el sistema de gestión de la calidad pueda lograr sus resultados previstos?",
+                                                "id_question": "6.1.1.3",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se previenen o reducen efectos indeseados?",
+                                                "id_question": "6.1.1.4",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se logra la mejora continua mediante la planificación?",
+                                                "id_question": "6.1.1.5",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 5,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    },
+                                    {
+                                        "id_subsection": "6.1.2",
+                                        "name_subsection": "Planificación organizacional",
+                                        "areas_for_improvement": [
+                                            "Completar la integración de acciones en todos los procesos con responsables claros y documentados.",
+                                            "Implementar una evaluación formal y periódica de la eficacia de las acciones para tratar riesgos y oportunidades.",
+                                            "Considerar escenarios alternativos y cambios imprevistos en la planificación de acciones."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Se planifican acciones para tratar riesgos y oportunidades.",
+                                            "Las acciones están parcialmente integradas en los procesos del sistema de gestión de calidad.",
+                                            "Se realiza seguimiento general a las acciones implementadas."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿La organización planifica las acciones para tratar riesgos y oportunidades?",
+                                                "id_question": "6.1.2.1",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se integran e implementan dichas acciones en los procesos del sistema de gestión?",
+                                                "id_question": "6.1.2.2",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se evalúa la eficacia de las acciones implementadas?",
+                                                "id_question": "6.1.2.3",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 3,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    }
+                                ],
+                                "counts_sum": {
+                                    "completo": 0,
+                                    "parcial": 8,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.5
+                            },
+                            {
+                                "id_section": "6.2",
+                                "name_section": "Objetivos de la calidad y planificación para lograrlos",
+                                "areas_for_improvement": [
+                                    "Mejorar la comunicación y comprensión de los objetivos de calidad en todos los niveles de la organización.",
+                                    "Definir metas cuantificables claras en todos los departamentos para los objetivos de calidad.",
+                                    "Documentar explícitamente la referencia a requisitos aplicables en los objetivos.",
+                                    "Alinear todos los objetivos con la satisfacción del cliente y la conformidad de productos y servicios.",
+                                    "Garantizar el seguimiento y reporte frecuente de todos los indicadores.",
+                                    "Actualizar los objetivos de calidad para reflejar cambios estratégicos oportunamente.",
+                                    "Centralizar la información documentada sobre los objetivos para facilitar su acceso y control.",
+                                    "Detallar los planes operativos con indicadores intermedios claros.",
+                                    "Asegurar la asignación clara de responsabilidades en objetivos transversales.",
+                                    "Realizar análisis de causas y actualizar planes cuando se extienden los plazos.",
+                                    "Homogeneizar la aplicación de metodologías para evaluar resultados en todas las áreas.",
+                                    "Gestionar restricciones presupuestarias para no afectar la ejecución de los planes."
+                                ],
+                                "fulfilled_aspects": [
+                                    "Los objetivos de calidad son coherentes con la política de calidad.",
+                                    "La mayoría de los objetivos de calidad son medibles.",
+                                    "Se consideran los requisitos aplicables en la definición de objetivos.",
+                                    "Los objetivos son pertinentes para la conformidad y satisfacción del cliente en general.",
+                                    "Se realiza seguimiento a los objetivos de calidad.",
+                                    "Los objetivos se comunican en espacios formales.",
+                                    "Se revisan y actualizan los objetivos anualmente.",
+                                    "Se mantiene información documentada sobre los objetivos de calidad.",
+                                    "Se planifica lo que se va a hacer para lograr los objetivos.",
+                                    "Se consideran recursos para la ejecución de los planes.",
+                                    "Se asignan responsabilidades para cumplir con los objetivos.",
+                                    "Se definen plazos para la finalización de los objetivos.",
+                                    "Se determina cómo se evaluarán los resultados."
+                                ],
+                                "questions_of_the_section": null,
+                                "subsections": [
+                                    {
+                                        "id_subsection": "6.2.1",
+                                        "name_subsection": "Establecimiento de objetivos de calidad",
+                                        "areas_for_improvement": [
+                                            "Mejorar la comunicación y comprensión de los objetivos de calidad en todos los niveles de la organización.",
+                                            "Definir metas cuantificables claras en todos los departamentos para los objetivos de calidad.",
+                                            "Documentar explícitamente la referencia a requisitos aplicables en los objetivos.",
+                                            "Alinear todos los objetivos con la satisfacción del cliente y la conformidad de productos y servicios.",
+                                            "Garantizar el seguimiento y reporte frecuente de todos los indicadores.",
+                                            "Actualizar los objetivos de calidad para reflejar cambios estratégicos oportunamente.",
+                                            "Centralizar la información documentada sobre los objetivos para facilitar su acceso y control."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Los objetivos de calidad son coherentes con la política de calidad.",
+                                            "La mayoría de los objetivos de calidad son medibles.",
+                                            "Se consideran los requisitos aplicables en la definición de objetivos.",
+                                            "Los objetivos son pertinentes para la conformidad y satisfacción del cliente en general.",
+                                            "Se realiza seguimiento a los objetivos de calidad.",
+                                            "Los objetivos se comunican en espacios formales.",
+                                            "Se revisan y actualizan los objetivos anualmente.",
+                                            "Se mantiene información documentada sobre los objetivos de calidad."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Los objetivos de calidad son coherentes con la política de la calidad?",
+                                                "id_question": "6.2.1.1",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Los objetivos de calidad son medibles?",
+                                                "id_question": "6.2.1.2",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se tienen en cuenta los requisitos aplicables?",
+                                                "id_question": "6.2.1.3",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Son pertinentes para la conformidad de productos y la satisfacción del cliente?",
+                                                "id_question": "6.2.1.4",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Son objeto de seguimiento?",
+                                                "id_question": "6.2.1.5",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se comunican los objetivos de calidad?",
+                                                "id_question": "6.2.1.6",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se actualizan los objetivos de calidad según sea apropiado?",
+                                                "id_question": "6.2.1.7",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se conserva información documentada sobre los objetivos de calidad?",
+                                                "id_question": "6.2.1.8",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 8,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    },
+                                    {
+                                        "id_subsection": "6.2.2",
+                                        "name_subsection": "Planificación para lograr los objetivos",
+                                        "areas_for_improvement": [
+                                            "Detallar los planes operativos con indicadores intermedios claros.",
+                                            "Gestionar restricciones presupuestarias para no afectar la ejecución de los planes.",
+                                            "Asegurar la asignación clara de responsabilidades en objetivos transversales.",
+                                            "Realizar análisis de causas y actualizar planes cuando se extienden los plazos.",
+                                            "Homogeneizar la aplicación de metodologías para evaluar resultados en todas las áreas."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Se planifica lo que se va a hacer para lograr los objetivos.",
+                                            "Se consideran recursos para la ejecución de los planes.",
+                                            "Se asignan responsabilidades para cumplir con los objetivos.",
+                                            "Se definen plazos para la finalización de los objetivos.",
+                                            "Se determina cómo se evaluarán los resultados."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Se determina lo que se va a hacer para lograr los objetivos?",
+                                                "id_question": "6.2.2.1",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se determinan los recursos necesarios?",
+                                                "id_question": "6.2.2.2",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se asignan responsabilidades para cumplir con los objetivos?",
+                                                "id_question": "6.2.2.3",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se definen los plazos de finalización?",
+                                                "id_question": "6.2.2.4",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Se determina cómo se evaluarán los resultados?",
+                                                "id_question": "6.2.2.5",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 5,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    }
+                                ],
+                                "counts_sum": {
+                                    "completo": 0,
+                                    "parcial": 13,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.5
+                            },
+                            {
+                                "id_section": "6.3",
+                                "name_section": "Planificación de los cambios",
+                                "areas_for_improvement": [
+                                    "Documentar todos los cambios operativos menores siguiendo el procedimiento establecido.",
+                                    "Asegurar análisis de impacto completos para todos los cambios, incluyendo los urgentes.",
+                                    "Formalizar la evaluación posterior a los cambios para mantener la integridad del sistema.",
+                                    "Gestionar adecuadamente los recursos humanos para evitar retrasos en la implementación de cambios.",
+                                    "Registrar todos los ajustes de responsabilidades y autoridades durante los cambios."
+                                ],
+                                "fulfilled_aspects": [
+                                    "Se planifican los cambios de manera sistemática en el sistema de gestión.",
+                                    "Se considera el propósito y las consecuencias de los cambios mayores.",
+                                    "Se mantiene la integridad del sistema de gestión ante los cambios.",
+                                    "Se asegura la disponibilidad de recursos para implementar los cambios.",
+                                    "Se asignan o reasignan responsabilidades y autoridades durante los cambios en proyectos grandes."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Se planifican los cambios de manera sistemática en el sistema de gestión?",
+                                        "id_question": "6.3.0.1",
+                                        "evaluation": "PARCIAL"
+                                    },
+                                    {
+                                        "question": "¿Se considera el propósito del cambio y sus consecuencias?",
+                                        "id_question": "6.3.0.2",
+                                        "evaluation": "PARCIAL"
+                                    },
+                                    {
+                                        "question": "¿Se mantiene la integridad del sistema de gestión ante los cambios?",
+                                        "id_question": "6.3.0.3",
+                                        "evaluation": "PARCIAL"
+                                    },
+                                    {
+                                        "question": "¿Se asegura la disponibilidad de recursos para implementar los cambios?",
+                                        "id_question": "6.3.0.4",
+                                        "evaluation": "PARCIAL"
+                                    },
+                                    {
+                                        "question": "¿Se asignan o reasignan responsabilidades y autoridades durante los cambios?",
+                                        "id_question": "6.3.0.5",
+                                        "evaluation": "PARCIAL"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 0,
+                                    "parcial": 5,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.5
+                            }
+                        ],
+                        "chapter_average_score": 0.5,
+                        "chapter_system_score": 0.05
+                    }
+                ]
+            },
+            {
+                "etapa": "HACER",
+                "peso_etapa": 0.3,
+                "puntaje_etapa": 0.206,
+                "capitulos": [
+                    {
+                        "id_capter": "7",
+                        "sections_of_the_capter": [
+                            {
+                                "id_section": "7.1",
+                                "name_section": "Recursos",
+                                "areas_for_improvement": [
+                                    "Formalizar un proceso para la determinación de recursos necesarios, evitando decisiones reactivas.",
+                                    "Mejorar la coordinación interdepartamental para asegurar la disponibilidad oportuna de recursos.",
+                                    "Implementar un seguimiento sistemático del desarrollo de competencias tras las capacitaciones.",
+                                    "Establecer un plan preventivo robusto para mantenimiento y actualización de infraestructura.",
+                                    "Documentar y considerar todos los factores ambientales relevantes, incluyendo iluminación y ergonomía.",
+                                    "Cumplir con los plazos establecidos para calibración y verificación de recursos de medición.",
+                                    "Actualizar y mantener una lista clara de instrumentos críticos con criterios definidos de trazabilidad metrológica."
+                                ],
+                                "fulfilled_aspects": [
+                                    "Se realizan capacitaciones básicas para asegurar competencias del personal.",
+                                    "Se cuenta con registros de calibración para recursos de medición.",
+                                    "Se considera temperatura y limpieza como condiciones ambientales para la operación de procesos."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Cómo determina la organización los recursos necesarios para establecer, implementar y mantener el sistema de gestión de la calidad?",
+                                        "id_question": "7.1.0.1",
+                                        "evaluation": "NINGUNO"
+                                    },
+                                    {
+                                        "question": "¿Cómo asegura la organización que los recursos estén disponibles en el momento y lugar requerido?",
+                                        "id_question": "7.1.0.2",
+                                        "evaluation": "PARCIAL"
+                                    }
+                                ],
+                                "subsections": [
+                                    {
+                                        "id_subsection": "7.1.1",
+                                        "name_subsection": "Personas",
+                                        "areas_for_improvement": [
+                                            "Implementar un seguimiento sistemático del desarrollo de competencias tras las capacitaciones."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Se realizan capacitaciones básicas para asegurar competencias del personal."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Cómo garantiza la organización que se disponen de personas competentes para la operación eficaz del sistema de gestión de la calidad?",
+                                                "id_question": "7.1.1.1",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 1,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    },
+                                    {
+                                        "id_subsection": "7.1.2",
+                                        "name_subsection": "Infraestructura",
+                                        "areas_for_improvement": [
+                                            "Establecer un plan preventivo robusto para mantenimiento y actualización de infraestructura."
+                                        ],
+                                        "fulfilled_aspects": [],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Qué métodos se utilizan para mantener y actualizar la infraestructura necesaria?",
+                                                "id_question": "7.1.2.1",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 1,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    },
+                                    {
+                                        "id_subsection": "7.1.3",
+                                        "name_subsection": "Ambiente para la operación de los procesos",
+                                        "areas_for_improvement": [
+                                            "Documentar y considerar todos los factores ambientales relevantes, incluyendo iluminación y ergonomía."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Se considera temperatura y limpieza como condiciones ambientales para la operación de procesos."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Qué condiciones ambientales considera la organización necesarias para la operación de los procesos?",
+                                                "id_question": "7.1.3.1",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 1,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    },
+                                    {
+                                        "id_subsection": "7.1.4",
+                                        "name_subsection": "Recursos de seguimiento y medición",
+                                        "areas_for_improvement": [
+                                            "Cumplir con los plazos establecidos para calibración y verificación de recursos de medición."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Se cuenta con registros de calibración para recursos de medición."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Cómo se asegura la organización de que los recursos de medición sean adecuados y estén calibrados?",
+                                                "id_question": "7.1.4.1",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 1,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    },
+                                    {
+                                        "id_subsection": "7.1.5",
+                                        "name_subsection": "Trazabilidad de las mediciones",
+                                        "areas_for_improvement": [
+                                            "Actualizar y mantener una lista clara de instrumentos críticos con criterios definidos de trazabilidad metrológica."
+                                        ],
+                                        "fulfilled_aspects": [],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Cuáles instrumentos requieren trazabilidad metrológica según la organización?",
+                                                "id_question": "7.1.5.1",
+                                                "evaluation": "NINGUNO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 0,
+                                            "ninguno": 1,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.0
+                                    }
+                                ],
+                                "counts_sum": {
+                                    "completo": 0,
+                                    "parcial": 5,
+                                    "ninguno": 2,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.4
+                            },
+                            {
+                                "id_section": "7.2",
+                                "name_section": "Competencia",
+                                "areas_for_improvement": [
+                                    "Actualizar las competencias definidas para el personal conforme a los cambios en los procesos."
+                                ],
+                                "fulfilled_aspects": [
+                                    "Se definen competencias mínimas por perfil para el personal."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Cómo determina la organización la competencia necesaria del personal que afecta al sistema de gestión de la calidad?",
+                                        "id_question": "7.2.0.1",
+                                        "evaluation": "PARCIAL"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 0,
+                                    "parcial": 1,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.5
+                            },
+                            {
+                                "id_section": "7.3",
+                                "name_section": "Toma de conciencia",
+                                "areas_for_improvement": [
+                                    "Implementar refuerzos periódicos y mecanismos para verificar la comprensión del personal sobre la política de calidad y su contribución al SGC."
+                                ],
+                                "fulfilled_aspects": [
+                                    "Se realiza difusión inicial de la política de calidad y contribución al SGC."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Cómo se asegura la organización de que el personal sea consciente de la política de calidad y de su contribución al SGC?",
+                                        "id_question": "7.3.0.1",
+                                        "evaluation": "PARCIAL"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 0,
+                                    "parcial": 1,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.5
+                            },
+                            {
+                                "id_section": "7.4",
+                                "name_section": "Comunicación",
+                                "areas_for_improvement": [
+                                    "Desarrollar un plan formal de comunicación para definir qué, cuándo, cómo y quién comunica tanto interna como externamente."
+                                ],
+                                "fulfilled_aspects": [],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Qué procesos utiliza la organización para determinar qué, cuándo y cómo comunicar internamente y externamente?",
+                                        "id_question": "7.4.0.1",
+                                        "evaluation": "NINGUNO"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 0,
+                                    "parcial": 0,
+                                    "ninguno": 1,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.0
+                            },
+                            {
+                                "id_section": "7.5",
+                                "name_section": "Información documentada",
+                                "areas_for_improvement": [
+                                    "Ampliar la documentación para incluir políticas, instructivos y otros documentos necesarios para el SGC.",
+                                    "Establecer un calendario regular para la revisión y actualización de la información documentada.",
+                                    "Implementar controles estrictos de versiones y definir permisos claros para la gestión de la información documentada.",
+                                    "Definir políticas claras para respaldo y acceso seguro de documentos."
+                                ],
+                                "fulfilled_aspects": [
+                                    "Se utiliza un sistema compartido para la gestión de la información documentada."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Cómo controla la organización la creación, actualización y distribución de la información documentada?",
+                                        "id_question": "7.5.0.1",
+                                        "evaluation": "PARCIAL"
+                                    }
+                                ],
+                                "subsections": [
+                                    {
+                                        "id_subsection": "7.5.1",
+                                        "name_subsection": "Generalidades",
+                                        "areas_for_improvement": [
+                                            "Documentar completamente la información requerida para el SGC, incluyendo políticas y procedimientos."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Se han identificado algunos procedimientos y registros documentados."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Qué tipos de información documentada se requiere según el sistema de gestión de la calidad?",
+                                                "id_question": "7.5.1.1",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 1,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    },
+                                    {
+                                        "id_subsection": "7.5.2",
+                                        "name_subsection": "Creación y actualización",
+                                        "areas_for_improvement": [
+                                            "Establecer un calendario para la revisión documental para asegurar la actualización oportuna."
+                                        ],
+                                        "fulfilled_aspects": [],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Cómo se asegura la organización de que la información documentada sea apropiada y esté actualizada?",
+                                                "id_question": "7.5.2.1",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 1,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    },
+                                    {
+                                        "id_subsection": "7.5.3",
+                                        "name_subsection": "Control de la información documentada",
+                                        "areas_for_improvement": [
+                                            "Definir y aplicar políticas claras para respaldo y acceso seguro de documentos."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Algunos documentos están protegidos con contraseñas."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Qué mecanismos se utilizan para controlar el acceso y protección de la información documentada?",
+                                                "id_question": "7.5.3.1",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 1,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    }
+                                ],
+                                "counts_sum": {
+                                    "completo": 0,
+                                    "parcial": 4,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.5
+                            }
+                        ],
+                        "chapter_average_score": 0.38,
+                        "chapter_system_score": 0.038
+                    },
+                    {
+                        "id_capter": "8",
+                        "sections_of_the_capter": [
+                            {
+                                "id_section": "8.1",
+                                "name_section": "Planificación y control operacional",
+                                "areas_for_improvement": [],
+                                "fulfilled_aspects": [
+                                    "Se han determinado y mapeado los procesos necesarios para cumplir los requisitos del sistema de gestión de calidad.",
+                                    "Se han establecido criterios para los procesos y la aceptación de productos y servicios.",
+                                    "Se han determinado los recursos necesarios para lograr la conformidad.",
+                                    "Se han implementado controles conforme a los criterios establecidos mediante procedimientos documentados.",
+                                    "Se mantiene información documentada para evidenciar los procesos mediante un sistema digital.",
+                                    "Se controlan los cambios planificados y se revisan los imprevistos con evaluación de impacto y aprobación.",
+                                    "Se aseguran controles adecuados sobre procesos externalizados, incluyendo auditorías a proveedores críticos."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Se han determinado los procesos necesarios para cumplir los requisitos del sistema de gestión de la calidad?",
+                                        "id_question": "8.1.0.1",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Se han planificado controles adecuados para los procesos externalizados?",
+                                        "id_question": "8.1.0.2",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Se han establecido criterios para los procesos y la aceptación de productos y servicios?",
+                                        "id_question": "8.1.0.3",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Se han determinado los recursos necesarios para lograr la conformidad?",
+                                        "id_question": "8.1.0.4",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Se han implementado controles conforme a los criterios establecidos?",
+                                        "id_question": "8.1.0.5",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Se mantiene información documentada para evidenciar los procesos?",
+                                        "id_question": "8.1.0.6",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Se controlan los cambios planificados y se revisan los imprevistos?",
+                                        "id_question": "8.1.0.7",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Se aseguran los controles sobre procesos contratados externamente?",
+                                        "id_question": "8.1.0.8",
+                                        "evaluation": "COMPLETO"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 8,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            },
+                            {
+                                "id_section": "8.2",
+                                "name_section": "Requisitos para los productos y servicios",
+                                "areas_for_improvement": [
+                                    "Se debe implementar un análisis formal de capacidad y recursos para garantizar el cumplimiento de los requisitos definidos."
+                                ],
+                                "fulfilled_aspects": [
+                                    "Se mantienen canales de comunicación eficaces con los clientes, incluyendo correos electrónicos, CRM y encuestas de satisfacción.",
+                                    "Se comunican los requisitos del producto, consultas, contratos y cambios con los clientes mediante procedimientos documentados.",
+                                    "Se consideran opiniones, reclamaciones y propiedad del cliente con un sistema de gestión de quejas y seguimiento.",
+                                    "Existen disposiciones para acciones de contingencia para clientes críticos.",
+                                    "Se determinan los requisitos del cliente antes de aceptar pedidos mediante un proceso formal de verificación.",
+                                    "Se identifican requisitos legales, reglamentarios y contractuales mediante revisión contra listas normativas y legales.",
+                                    "Se revisan los requisitos antes de comprometerse con el cliente mediante revisión técnica y comercial.",
+                                    "Se resuelven diferencias entre requisitos y pedidos antes de aceptar con documentación y validación."
+                                ],
+                                "questions_of_the_section": [],
+                                "subsections": [
+                                    {
+                                        "id_subsection": "8.2.1",
+                                        "name_subsection": "Comunicación con el cliente",
+                                        "areas_for_improvement": [],
+                                        "fulfilled_aspects": [
+                                            "Se mantienen canales de comunicación eficaces con el cliente.",
+                                            "Se comunican requisitos, consultas, contratos y cambios con los clientes.",
+                                            "Se consideran opiniones, reclamaciones y propiedad del cliente.",
+                                            "Existen acciones de contingencia para clientes críticos."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿La organización mantiene canales de comunicación eficaces con el cliente?",
+                                                "id_question": "8.2.1.1",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se comunican los requisitos del producto, consultas, contratos y cambios con los clientes?",
+                                                "id_question": "8.2.1.2",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se consideran opiniones, reclamaciones y propiedad del cliente?",
+                                                "id_question": "8.2.1.3",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Existen disposiciones para acciones de contingencia si aplica?",
+                                                "id_question": "8.2.1.4",
+                                                "evaluation": "COMPLETO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 4,
+                                            "parcial": 0,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 1.0
+                                    },
+                                    {
+                                        "id_subsection": "8.2.2",
+                                        "name_subsection": "Determinación de los requisitos",
+                                        "areas_for_improvement": [
+                                            "No se realiza evaluación formal de capacidad y recursos para garantizar el cumplimiento de los requisitos definidos."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Se determinan los requisitos del cliente antes de aceptar pedidos.",
+                                            "Se identifican requisitos legales, reglamentarios y contractuales."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Se determinan los requisitos del cliente antes de aceptar pedidos?",
+                                                "id_question": "8.2.2.1",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se identifican requisitos legales, reglamentarios y contractuales?",
+                                                "id_question": "8.2.2.2",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se garantiza la capacidad para cumplir los requisitos definidos?",
+                                                "id_question": "8.2.2.3",
+                                                "evaluation": "NINGUNO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 2,
+                                            "parcial": 0,
+                                            "ninguno": 1,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.667
+                                    },
+                                    {
+                                        "id_subsection": "8.2.3",
+                                        "name_subsection": "Revisión de los requisitos",
+                                        "areas_for_improvement": [],
+                                        "fulfilled_aspects": [
+                                            "Se revisan los requisitos antes de comprometerse con el cliente mediante revisión técnica y comercial.",
+                                            "Se resuelven diferencias entre requisitos y pedidos antes de aceptar con documentación y validación."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Se revisan los requisitos antes de comprometerse con el cliente?",
+                                                "id_question": "8.2.3.1",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Se resuelven diferencias entre requisitos y pedidos antes de aceptar?",
+                                                "id_question": "8.2.3.2",
+                                                "evaluation": "COMPLETO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 2,
+                                            "parcial": 0,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 1.0
+                                    }
+                                ],
+                                "counts_sum": {
+                                    "completo": 8,
+                                    "parcial": 0,
+                                    "ninguno": 1,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.889
+                            },
+                            {
+                                "id_section": "8.3",
+                                "name_section": "Diseño y desarrollo de los productos y servicios",
+                                "areas_for_improvement": [],
+                                "fulfilled_aspects": [
+                                    "La organización tiene un proceso documentado de diseño y desarrollo que se revisa anualmente.",
+                                    "Se planifican adecuadamente las etapas del diseño con definición de hitos, responsables y entregables."
+                                ],
+                                "questions_of_the_section": [],
+                                "subsections": [
+                                    {
+                                        "id_subsection": "8.3.1",
+                                        "name_subsection": "Generalidades",
+                                        "areas_for_improvement": [],
+                                        "fulfilled_aspects": [
+                                            "La organización tiene un proceso documentado de diseño y desarrollo."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿La organización tiene un proceso documentado de diseño y desarrollo?",
+                                                "id_question": "8.3.1.1",
+                                                "evaluation": "COMPLETO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 1,
+                                            "parcial": 0,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 1.0
+                                    },
+                                    {
+                                        "id_subsection": "8.3.2",
+                                        "name_subsection": "Planificación del diseño y desarrollo",
+                                        "areas_for_improvement": [],
+                                        "fulfilled_aspects": [
+                                            "Se planifican adecuadamente las etapas del diseño y desarrollo."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Se planifican adecuadamente las etapas del diseño?",
+                                                "id_question": "8.3.2.1",
+                                                "evaluation": "COMPLETO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 1,
+                                            "parcial": 0,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 1.0
+                                    }
+                                ],
+                                "counts_sum": {
+                                    "completo": 2,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            },
+                            {
+                                "id_section": "8.4",
+                                "name_section": "Control de los procesos, productos y servicios suministrados externamente",
+                                "areas_for_improvement": [],
+                                "fulfilled_aspects": [
+                                    "Se controlan adecuadamente los productos o servicios proporcionados por proveedores mediante evaluaciones periódicas."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Se controlan adecuadamente los productos o servicios proporcionados por proveedores?",
+                                        "id_question": "8.4.0.1",
+                                        "evaluation": "COMPLETO"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 1,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            },
+                            {
+                                "id_section": "8.5",
+                                "name_section": "Producción y provisión del servicio",
+                                "areas_for_improvement": [],
+                                "fulfilled_aspects": [
+                                    "Se controla la producción conforme a los requisitos establecidos mediante procedimientos estandarizados.",
+                                    "Se identifica el estado del producto durante el proceso a través del sistema ERP."
+                                ],
+                                "questions_of_the_section": [],
+                                "subsections": [
+                                    {
+                                        "id_subsection": "8.5.1",
+                                        "name_subsection": "Control de la producción y provisión",
+                                        "areas_for_improvement": [],
+                                        "fulfilled_aspects": [
+                                            "Se controla la producción conforme a los requisitos establecidos."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Se controla la producción conforme a los requisitos establecidos?",
+                                                "id_question": "8.5.1.1",
+                                                "evaluation": "COMPLETO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 1,
+                                            "parcial": 0,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 1.0
+                                    },
+                                    {
+                                        "id_subsection": "8.5.2",
+                                        "name_subsection": "Identificación y trazabilidad",
+                                        "areas_for_improvement": [],
+                                        "fulfilled_aspects": [
+                                            "Se identifica el estado del producto durante el proceso."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Se identifica el estado del producto durante el proceso?",
+                                                "id_question": "8.5.2.1",
+                                                "evaluation": "COMPLETO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 1,
+                                            "parcial": 0,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 1.0
+                                    }
+                                ],
+                                "counts_sum": {
+                                    "completo": 2,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            },
+                            {
+                                "id_section": "8.6",
+                                "name_section": "Liberación de los productos y servicios",
+                                "areas_for_improvement": [
+                                    "Se debe implementar una revisión de calidad previa a la entrega para verificar que los productos cumplen los requisitos."
+                                ],
+                                "fulfilled_aspects": [],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Se verifica que los productos cumplen los requisitos antes de su entrega?",
+                                        "id_question": "8.6.0.1",
+                                        "evaluation": "NINGUNO"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 0,
+                                    "parcial": 0,
+                                    "ninguno": 1,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.0
+                            },
+                            {
+                                "id_section": "8.7",
+                                "name_section": "Control de las salidas no conformes",
+                                "areas_for_improvement": [],
+                                "fulfilled_aspects": [
+                                    "La organización controla adecuadamente los productos no conformes mediante informes y seguimiento."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿La organización controla adecuadamente los productos no conformes?",
+                                        "id_question": "8.7.0.1",
+                                        "evaluation": "COMPLETO"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 1,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            }
+                        ],
+                        "chapter_average_score": 0.841,
+                        "chapter_system_score": 0.168
+                    }
+                ]
+            },
+            {
+                "etapa": "VERIFICAR",
+                "peso_etapa": 0.2,
+                "puntaje_etapa": 0.1,
+                "capitulos": [
+                    {
+                        "id_capter": "9",
+                        "sections_of_the_capter": [
+                            {
+                                "id_section": "9.1",
+                                "name_section": "Seguimiento, medición, análisis y evaluación",
+                                "areas_for_improvement": [
+                                    "Formalizar el procedimiento para definir indicadores clave y asegurar su cobertura completa.",
+                                    "Implementar un sistema automatizado para el seguimiento, medición, análisis y evaluación.",
+                                    "Asegurar la regularidad en la medición de todos los procesos clave, especialmente los críticos.",
+                                    "Documentar formalmente los análisis realizados en las reuniones de revisión por la dirección.",
+                                    "Consolidar y sistematizar la medición de la satisfacción del cliente mediante indicadores claros y periódicos.",
+                                    "Ampliar los métodos para obtener información sobre la percepción del cliente, incluyendo canales proactivos y digitales.",
+                                    "Integrar de manera consistente datos relevantes como desempeño de proveedores y satisfacción del cliente en el análisis del sistema de gestión de calidad.",
+                                    "Establecer una metodología sistemática para el uso de resultados del análisis orientada a la mejora continua a largo plazo."
+                                ],
+                                "fulfilled_aspects": [
+                                    "Se realizan actividades de seguimiento y medición, aunque con limitaciones en frecuencia y formalización.",
+                                    "Se aplican encuestas para medir la satisfacción del cliente, y se consideran quejas formales como fuente de información.",
+                                    "Se analizan datos de indicadores de producción para evaluar el desempeño del sistema de gestión de calidad.",
+                                    "Se toman acciones basadas en los resultados del análisis, aunque no de forma sistemática."
+                                ],
+                                "questions_of_the_section": null,
+                                "subsections": [
+                                    {
+                                        "id_subsection": "9.1.2",
+                                        "name_subsection": "Satisfacción del cliente",
+                                        "areas_for_improvement": [
+                                            "Establecer un indicador consolidado y periódico para medir la satisfacción del cliente.",
+                                            "Diversificar los métodos para obtener retroalimentación del cliente, incluyendo medios digitales y entrevistas proactivas."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Se realizan encuestas para medir la satisfacción del cliente.",
+                                            "Se consideran las quejas formales como fuente de información sobre la percepción del cliente."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Cómo realiza la organización el seguimiento de la satisfacción del cliente?",
+                                                "id_question": "9.1.2.1",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Qué métodos se utilizan para obtener y utilizar la información sobre la percepción del cliente?",
+                                                "id_question": "9.1.2.2",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 2,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    },
+                                    {
+                                        "id_subsection": "9.1.3",
+                                        "name_subsection": "Análisis y evaluación",
+                                        "areas_for_improvement": [
+                                            "Incluir datos sobre desempeño de proveedores y satisfacción del cliente en el análisis del sistema de gestión de calidad.",
+                                            "Desarrollar una metodología sistemática para garantizar la mejora continua basada en análisis de datos."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Se analizan indicadores de producción para evaluar el desempeño del sistema de gestión de calidad.",
+                                            "Se toman acciones basadas en resultados del análisis, aunque no de forma sistemática."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Qué tipo de datos analiza la organización para evaluar el desempeño del sistema de gestión de la calidad?",
+                                                "id_question": "9.1.3.1",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Cómo utiliza la organización los resultados del análisis para la mejora continua?",
+                                                "id_question": "9.1.3.2",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 2,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    }
+                                ],
+                                "counts_sum": {
+                                    "completo": 0,
+                                    "parcial": 8,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.5
+                            },
+                            {
+                                "id_section": "9.2",
+                                "name_section": "Auditoría interna",
+                                "areas_for_improvement": [
+                                    "Mejorar la puntualidad en la realización de auditorías internas para cumplir con la planificación anual.",
+                                    "Garantizar la independencia y objetividad de los auditores, evitando que auditen procesos cercanos a su área.",
+                                    "Actualizar el programa de auditoría interna ante cambios relevantes en los procesos.",
+                                    "Definir claramente los criterios de auditoría en los planes de auditoría.",
+                                    "Asegurar la entrega oportuna de informes de auditoría a la dirección para facilitar la toma de decisiones.",
+                                    "Fortalecer el seguimiento y verificación de la efectividad de las acciones correctivas derivadas de auditorías."
+                                ],
+                                "fulfilled_aspects": [
+                                    "Se planifican auditorías internas anuales con objetivos definidos.",
+                                    "Se intenta mantener la imparcialidad y objetividad en las auditorías mediante la selección de auditores independientes.",
+                                    "Se define el alcance de las auditorías en los planes de auditoría.",
+                                    "Se asignan acciones correctivas tras las auditorías internas."
+                                ],
+                                "questions_of_the_section": null,
+                                "subsections": [
+                                    {
+                                        "id_subsection": "9.2.2",
+                                        "name_subsection": "La organización debe",
+                                        "areas_for_improvement": [
+                                            "Actualizar el programa de auditoría interna cuando ocurran cambios importantes en los procesos.",
+                                            "Detallar claramente los criterios de auditoría en los planes.",
+                                            "Mejorar la puntualidad en la entrega de informes de auditoría a la dirección.",
+                                            "Fortalecer el seguimiento y verificación de la efectividad de las acciones correctivas."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "El programa de auditoría interna se define anualmente.",
+                                            "El alcance de las auditoría se especifica en los planes de auditoría.",
+                                            "Se asignan acciones correctivas tras las auditorías internas."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Cómo se planifican y mantienen los programas de auditoría interna?",
+                                                "id_question": "9.2.2.1",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Cómo se define el alcance y los criterios de cada auditoría interna?",
+                                                "id_question": "9.2.2.2",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Cómo se asegura la organización de que los resultados de auditoría sean informados a la dirección pertinente?",
+                                                "id_question": "9.2.2.3",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Qué acciones toma la organización tras las auditorías internas?",
+                                                "id_question": "9.2.2.4",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 4,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    }
+                                ],
+                                "counts_sum": {
+                                    "completo": 0,
+                                    "parcial": 6,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.5
+                            },
+                            {
+                                "id_section": "9.3",
+                                "name_section": "Revisión por la dirección",
+                                "areas_for_improvement": [
+                                    "Profundizar el análisis de riesgos y desempeño de proveedores durante la revisión por la dirección.",
+                                    "Asignar recursos y responsables claros para implementar las oportunidades de mejora identificadas.",
+                                    "Mejorar la documentación de las minutas de revisión por la dirección, incluyendo detalles sobre acciones y responsables."
+                                ],
+                                "fulfilled_aspects": [
+                                    "Se realiza la revisión por la dirección anualmente.",
+                                    "Se identifican oportunidades de mejora durante la revisión por la dirección.",
+                                    "Se documentan las revisiones por la dirección mediante minutas."
+                                ],
+                                "questions_of_the_section": null,
+                                "subsections": [
+                                    {
+                                        "id_subsection": "9.3.2",
+                                        "name_subsection": "Elementos de salida",
+                                        "areas_for_improvement": [
+                                            "Asignar recursos y responsables claros para las oportunidades de mejora derivadas de la revisión por la dirección.",
+                                            "Mejorar el detalle en la documentación de las minutas, especialmente en acciones y responsables."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Se identifican oportunidades de mejora en la revisión por la dirección.",
+                                            "Se generan minutas como evidencia de la revisión por la dirección."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Qué decisiones resultan de la revisión por la dirección?",
+                                                "id_question": "9.3.2.1",
+                                                "evaluation": "PARCIAL"
+                                            },
+                                            {
+                                                "question": "¿Cómo documenta la organización los resultados de la revisión por la dirección?",
+                                                "id_question": "9.3.2.2",
+                                                "evaluation": "PARCIAL"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 0,
+                                            "parcial": 2,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 0.5
+                                    }
+                                ],
+                                "counts_sum": {
+                                    "completo": 0,
+                                    "parcial": 3,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 0.5
+                            }
+                        ],
+                        "chapter_average_score": 0.5,
+                        "chapter_system_score": 0.1
+                    }
+                ]
+            },
+            {
+                "etapa": "ACTUAR",
+                "peso_etapa": 0.15,
+                "puntaje_etapa": 0.15,
+                "capitulos": [
+                    {
+                        "id_capter": "10",
+                        "sections_of_the_capter": [
+                            {
+                                "id_section": "10.1",
+                                "name_section": "Generalidades",
+                                "areas_for_improvement": [
+                                    "Formalizar y documentar el proceso de identificación y selección de oportunidades de mejora para asegurar trazabilidad y consistencia.",
+                                    "Incluir evidencia documental que respalde las acciones implementadas para cumplir los requisitos del cliente y aumentar su satisfacción.",
+                                    "Ampliar la descripción de las mejoras realizadas para incluir ejemplos específicos y resultados medibles."
+                                ],
+                                "fulfilled_aspects": [
+                                    "La organización utiliza informes de desempeño, retroalimentación del cliente y auditorías internas para identificar oportunidades de mejora.",
+                                    "Se implementan acciones como ajuste de procesos operativos, capacitación del personal y mejora en tiempos de entrega para aumentar la satisfacción del cliente.",
+                                    "Se realizan mejoras en procesos críticos, rediseño de productos y optimización del sistema de gestión."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Cómo identifica y selecciona la organización las oportunidades de mejora?",
+                                        "id_question": "10.1.0.1",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Qué acciones se implementan para cumplir los requisitos del cliente y aumentar su satisfacción?",
+                                        "id_question": "10.1.0.2",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Qué tipo de mejoras realiza la organización cuando es adecuado?",
+                                        "id_question": "10.1.0.3",
+                                        "evaluation": "COMPLETO"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 3,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            },
+                            {
+                                "id_section": "10.2",
+                                "name_section": "No conformidad y acción correctiva",
+                                "areas_for_improvement": [
+                                    "Mejorar la integración y comunicación entre las subsecciones para evitar redundancias y asegurar coherencia en el tratamiento de no conformidades.",
+                                    "Documentar con mayor detalle el proceso de evaluación y seguimiento de acciones correctivas para evidenciar su eficacia.",
+                                    "Fortalecer la gestión del cambio en el sistema de gestión de la calidad con procedimientos claros y actualizados."
+                                ],
+                                "fulfilled_aspects": [
+                                    "La organización reacciona de manera inmediata ante las no conformidades, tomando acciones para contener, corregir y evaluar impactos.",
+                                    "Se realiza análisis detallado de causas raíz y evaluación de riesgos para eliminar causas de no conformidades.",
+                                    "Se implementan acciones para controlar, corregir y enfrentar consecuencias de no conformidades.",
+                                    "Se verifica la eficacia de las acciones correctivas mediante auditorías internas y reuniones de calidad.",
+                                    "Se actualizan procedimientos y responsabilidades cuando las causas afectan la estructura del sistema de gestión.",
+                                    "Se conserva información documentada sobre causas, acciones tomadas y resultados como evidencia.",
+                                    "Los registros de acciones correctivas están firmados electrónicamente y auditados por el área de calidad."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Cómo reacciona la organización ante las no conformidades?",
+                                        "id_question": "10.2.0.1",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Qué proceso se sigue para evaluar si se deben eliminar las causas de la no conformidad?",
+                                        "id_question": "10.2.0.2",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Qué acciones toma la organización para controlar y corregir una no conformidad?",
+                                        "id_question": "10.2.1.1",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Cómo se enfrentan las consecuencias derivadas de las no conformidades?",
+                                        "id_question": "10.2.1.2",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Qué métodos se utilizan para evaluar si la no conformidad puede volver a ocurrir?",
+                                        "id_question": "10.2.1.3",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Cómo verifica la organización la eficacia de las acciones correctivas tomadas?",
+                                        "id_question": "10.2.1.4",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿En qué casos se realizan cambios al sistema de gestión de la calidad como resultado de una no conformidad?",
+                                        "id_question": "10.2.1.5",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Qué información documentada conserva la organización sobre las no conformidades?",
+                                        "id_question": "10.2.2.1",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Cómo se almacenan los resultados de las acciones correctivas como evidencia?",
+                                        "id_question": "10.2.2.2",
+                                        "evaluation": "COMPLETO"
+                                    }
+                                ],
+                                "subsections": [
+                                    {
+                                        "id_subsection": "10.2.1",
+                                        "name_subsection": "Reacción ante no conformidad y acciones correctivas",
+                                        "areas_for_improvement": [
+                                            "Detallar los procedimientos específicos para el análisis de tendencias y la consulta a responsables de proceso para evaluar recurrencia de no conformidades.",
+                                            "Fortalecer la documentación del seguimiento y validación de la eficacia de las acciones correctivas."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Se detiene el proceso afectado, se corrige el producto y se informa a las partes interesadas para controlar y corregir no conformidades.",
+                                            "Se analizan impactos y se toman medidas compensatorias para enfrentar consecuencias.",
+                                            "Se utilizan análisis de tendencias, revisión de incidentes y consulta a responsables para evaluar recurrencia.",
+                                            "Se realiza seguimiento en auditorías internas y reuniones para validar eficacia de acciones correctivas.",
+                                            "Se actualizan procedimientos y responsabilidades cuando causas afectan el sistema de gestión."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Qué acciones toma la organización para controlar y corregir una no conformidad?",
+                                                "id_question": "10.2.1.1",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Cómo se enfrentan las consecuencias derivadas de las no conformidades?",
+                                                "id_question": "10.2.1.2",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Qué métodos se utilizan para evaluar si la no conformidad puede volver a ocurrir?",
+                                                "id_question": "10.2.1.3",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Cómo verifica la organización la eficacia de las acciones correctivas tomadas?",
+                                                "id_question": "10.2.1.4",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿En qué casos se realizan cambios al sistema de gestión de la calidad como resultado de una no conformidad?",
+                                                "id_question": "10.2.1.5",
+                                                "evaluation": "COMPLETO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 5,
+                                            "parcial": 0,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 1.0
+                                    },
+                                    {
+                                        "id_subsection": "10.2.2",
+                                        "name_subsection": "Información documentada como evidencia",
+                                        "areas_for_improvement": [
+                                            "Asegurar la integridad y disponibilidad continua de la información documentada mediante controles de acceso y respaldo adecuados.",
+                                            "Mejorar la trazabilidad de los registros para facilitar auditorías y revisiones futuras."
+                                        ],
+                                        "fulfilled_aspects": [
+                                            "Se registran causas, acciones tomadas y resultados en el sistema documental interno.",
+                                            "Los registros digitales están firmados electrónicamente y auditados por el área de calidad."
+                                        ],
+                                        "questions_of_the_subsection": [
+                                            {
+                                                "question": "¿Qué información documentada conserva la organización sobre las no conformidades?",
+                                                "id_question": "10.2.2.1",
+                                                "evaluation": "COMPLETO"
+                                            },
+                                            {
+                                                "question": "¿Cómo se almacenan los resultados de las acciones correctivas como evidencia?",
+                                                "id_question": "10.2.2.2",
+                                                "evaluation": "COMPLETO"
+                                            }
+                                        ],
+                                        "counts_sum": {
+                                            "completo": 2,
+                                            "parcial": 0,
+                                            "ninguno": 0,
+                                            "no_aplica": 0
+                                        },
+                                        "evaluation_score": 1.0
+                                    }
+                                ],
+                                "counts_sum": {
+                                    "completo": 9,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            },
+                            {
+                                "id_section": "10.3",
+                                "name_section": "Mejora continua",
+                                "areas_for_improvement": [
+                                    "Documentar formalmente el proceso de mejora continua para asegurar consistencia y seguimiento.",
+                                    "Integrar de manera sistemática los resultados de auditorías y revisiones por la dirección en la planificación de mejoras.",
+                                    "Ampliar el uso de metodologías para investigar causas raíz y fomentar la capacitación continua en herramientas de mejora."
+                                ],
+                                "fulfilled_aspects": [
+                                    "La organización asegura la mejora continua mediante el ciclo PHVA, indicadores de desempeño y retroalimentación del cliente.",
+                                    "Considera resultados de auditorías, revisiones por la dirección y análisis de datos operativos para detectar oportunidades de mejora.",
+                                    "Utiliza herramientas como diagramas de Ishikawa, análisis 5 porqués y metodologías Lean/Six Sigma para investigar causas de bajo desempeño."
+                                ],
+                                "questions_of_the_section": [
+                                    {
+                                        "question": "¿Cómo asegura la organización la mejora continua del sistema de gestión de la calidad?",
+                                        "id_question": "10.3.0.1",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Qué elementos considera la organización para detectar oportunidades de mejora?",
+                                        "id_question": "10.3.0.2",
+                                        "evaluation": "COMPLETO"
+                                    },
+                                    {
+                                        "question": "¿Qué herramientas o metodologías se utilizan para investigar causas de bajo desempeño?",
+                                        "id_question": "10.3.0.3",
+                                        "evaluation": "COMPLETO"
+                                    }
+                                ],
+                                "subsections": null,
+                                "counts_sum": {
+                                    "completo": 3,
+                                    "parcial": 0,
+                                    "ninguno": 0,
+                                    "no_aplica": 0
+                                },
+                                "evaluation_score": 1.0
+                            }
+                        ],
+                        "chapter_average_score": 1.0,
+                        "chapter_system_score": 0.15
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+
+
+
+
