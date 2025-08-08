@@ -1,0 +1,215 @@
+POST ec2-54-201-59-189.us-west-2.compute.amazonaws.com:8000/evaluar
+
+Este Endpoint recibe las preguntas y respuesta de cada capítulo de una norma
+
+Json de Ejemplo para hacer una peticion
+
+{"id_cliente": "empresa123",
+"capitulo_id": "8",
+  "secciones": [
+    {
+      "id_seccion": "8.1",
+      "seccion": "Planificación y control operacional",
+      "preguntas_y_respuestas": [
+        {
+          "id_pregunta": "8.1.0.1",
+          "pregunta": "¿Se han determinado los procesos necesarios para cumplir los requisitos del sistema de gestión de la calidad?",
+          "respuesta": "Sí, se han mapeado los procesos clave y se revisan anualmente."
+        },
+        {
+          "id_pregunta": "8.1.0.2",
+          "pregunta": "¿Se han planificado controles adecuados para los procesos externalizados?",
+          "respuesta": "Sí, se han establecido cláusulas de calidad en los contratos con proveedores."
+        },
+        {
+          "id_pregunta": "8.1.0.3",
+          "pregunta": "¿Se han establecido criterios para los procesos y la aceptación de productos y servicios?",
+          "respuesta": "Sí, se utilizan hojas de verificación y controles de calidad definidos."
+        },
+        {
+          "id_pregunta": "8.1.0.4",
+          "pregunta": "¿Se han determinado los recursos necesarios para lograr la conformidad?",
+          "respuesta": "Sí, los recursos se determinan en la planificación anual operativa."
+        },
+        {
+          "id_pregunta": "8.1.0.5",
+          "pregunta": "¿Se han implementado controles conforme a los criterios establecidos?",
+          "respuesta": "Sí, se aplican mediante procedimientos documentados y supervisión periódica."
+        },
+        {
+          "id_pregunta": "8.1.0.6",
+          "pregunta": "¿Se mantiene información documentada para evidenciar los procesos?",
+          "respuesta": "Sí, se usa un sistema digital para el registro y trazabilidad."
+        },
+        {
+          "id_pregunta": "8.1.0.7",
+          "pregunta": "¿Se controlan los cambios planificados y se revisan los imprevistos?",
+          "respuesta": "Sí, todo cambio pasa por evaluación de impacto y aprobación."
+        },
+        {
+          "id_pregunta": "8.1.0.8",
+          "pregunta": "¿Se aseguran los controles sobre procesos contratados externamente?",
+          "respuesta": "Sí, se auditan proveedores críticos y se monitorean los resultados."
+        }
+      ]
+    },
+    {
+      "id_seccion": "8.2",
+      "seccion": "Requisitos para los productos y servicios",
+      "subsecciones": [
+        {
+          "id_subseccion": "8.2.1",
+          "subseccion": "Comunicación con el cliente",
+          "preguntas_y_respuestas": [
+            {
+              "id_pregunta": "8.2.1.1",
+              "pregunta": "¿La organización mantiene canales de comunicación eficaces con el cliente?",
+              "respuesta": "Sí, se utilizan correos electrónicos, CRM y encuestas de satisfacción."
+            },
+            {
+              "id_pregunta": "8.2.1.2",
+              "pregunta": "¿Se comunican los requisitos del producto, consultas, contratos y cambios con los clientes?",
+              "respuesta": "Sí, mediante procedimientos documentados y software de gestión."
+            },
+            {
+              "id_pregunta": "8.2.1.3",
+              "pregunta": "¿Se consideran opiniones, reclamaciones y propiedad del cliente?",
+              "respuesta": "Sí, hay un sistema de gestión de quejas y seguimiento."
+            },
+            {
+              "id_pregunta": "8.2.1.4",
+              "pregunta": "¿Existen disposiciones para acciones de contingencia si aplica?",
+              "respuesta": "Sí, el plan de continuidad incluye acciones específicas para clientes críticos."
+            }
+          ]
+        },
+        {
+          "id_subseccion": "8.2.2",
+          "subseccion": "Determinación de los requisitos",
+          "preguntas_y_respuestas": [
+            {
+              "id_pregunta": "8.2.2.1",
+              "pregunta": "¿Se determinan los requisitos del cliente antes de aceptar pedidos?",
+              "respuesta": "Sí, hay un proceso formal de verificación antes de cotizar."
+            },
+            {
+              "id_pregunta": "8.2.2.2",
+              "pregunta": "¿Se identifican requisitos legales, reglamentarios y contractuales?",
+              "respuesta": "Sí, se revisan contra listas normativas y legales."
+            },
+            {
+              "id_pregunta": "8.2.2.3",
+              "pregunta": "¿Se garantiza la capacidad para cumplir los requisitos definidos?",
+              "respuesta": "No se evalúa mediante análisis de capacidad y recursos."
+            }
+          ]
+        },
+        {
+          "id_subseccion": "8.2.3",
+          "subseccion": "Revisión de los requisitos",
+          "preguntas_y_respuestas": [
+            {
+              "id_pregunta": "8.2.3.1",
+              "pregunta": "¿Se revisan los requisitos antes de comprometerse con el cliente?",
+              "respuesta": "Sí, se realiza una revisión técnica y comercial."
+            },
+            {
+              "id_pregunta": "8.2.3.2",
+              "pregunta": "¿Se resuelven diferencias entre requisitos y pedidos antes de aceptar?",
+              "respuesta": "Sí, se documentan y validan antes de formalizar el contrato."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id_seccion": "8.3",
+      "seccion": "Diseño y desarrollo de los productos y servicios",
+      "subsecciones": [
+        {
+          "id_subseccion": "8.3.1",
+          "subseccion": "Generalidades",
+          "preguntas_y_respuestas": [
+            {
+              "id_pregunta": "8.3.1.1",
+              "pregunta": "¿La organización tiene un proceso documentado de diseño y desarrollo?",
+              "respuesta": "Sí, el proceso está definido y se revisa cada año."
+            }
+          ]
+        },
+        {
+          "id_subseccion": "8.3.2",
+          "subseccion": "Planificación del diseño y desarrollo",
+          "preguntas_y_respuestas": [
+            {
+              "id_pregunta": "8.3.2.1",
+              "pregunta": "¿Se planifican adecuadamente las etapas del diseño?",
+              "respuesta": "Sí, se definen hitos, responsables y entregables."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id_seccion": "8.4",
+      "seccion": "Control de los procesos, productos y servicios suministrados externamente",
+      "preguntas_y_respuestas": [
+        {
+          "id_pregunta": "8.4.0.1",
+          "pregunta": "¿Se controlan adecuadamente los productos o servicios proporcionados por proveedores?",
+          "respuesta": "Sí, los proveedores se evalúan periódicamente."
+        }
+      ]
+    },
+    {
+      "id_seccion": "8.5",
+      "seccion": "Producción y provisión del servicio",
+      "subsecciones": [
+        {
+          "id_subseccion": "8.5.1",
+          "subseccion": "Control de la producción y provisión",
+          "preguntas_y_respuestas": [
+            {
+              "id_pregunta": "8.5.1.1",
+              "pregunta": "¿Se controla la producción conforme a los requisitos establecidos?",
+              "respuesta": "Sí, mediante procedimientos estandarizados."
+            }
+          ]
+        },
+        {
+          "id_subseccion": "8.5.2",
+          "subseccion": "Identificación y trazabilidad",
+          "preguntas_y_respuestas": [
+            {
+              "id_pregunta": "8.5.2.1",
+              "pregunta": "¿Se identifica el estado del producto durante el proceso?",
+              "respuesta": "Sí, a través del sistema ERP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id_seccion": "8.6",
+      "seccion": "Liberación de los productos y servicios",
+      "preguntas_y_respuestas": [
+        {
+          "id_pregunta": "8.6.0.1",
+          "pregunta": "¿Se verifica que los productos cumplen los requisitos antes de su entrega?",
+          "respuesta": "No se realiza una revisión de calidad previa a la entrega."
+        }
+      ]
+    },
+    {
+      "id_seccion": "8.7",
+      "seccion": "Control de las salidas no conformes",
+      "preguntas_y_respuestas": [
+        {
+          "id_pregunta": "8.7.0.1",
+          "pregunta": "¿La organización controla adecuadamente los productos no conformes?",
+          "respuesta": "Sí, se emiten informes de no conformidad y se realiza seguimiento."
+        }
+      ]
+    }
+  ]
+}
