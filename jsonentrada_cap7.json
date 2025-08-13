@@ -1,0 +1,291 @@
+{
+    "id_cliente": "empresa123",
+    "capitulo_id": "7",
+    "secciones": [
+      {
+        "id_seccion": "7.1",
+        "seccion": "Recursos",
+        "subsecciones": [
+          {
+            "id_subseccion": "7.1.1",
+            "subseccion": "Generalidades",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "7.1.1.1",
+                "pregunta": "¿La organización determina y proporciona los recursos necesarios para el establecimiento, implementación, mantenimiento y mejora continua del sistema de gestión de la calidad?",
+                "respuesta": "Se realiza una planificación de recursos basada en las prioridades estratégicas y operativas; en la práctica se procura cubrir las necesidades esenciales, aunque en ocasiones la ejecución se ajusta por disponibilidad presupuestal."
+              },
+              {
+                "id_pregunta": "7.1.1.2",
+                "pregunta": "¿Se consideran las capacidades internas existentes y sus limitaciones al asignar recursos?",
+                "respuesta": "Sí, se evalúan capacidades y limitaciones internas como insumo para la asignación, y se planifican compensaciones (por ejemplo, formación o contratación externa) cuando hay brechas."
+              },
+              {
+                "id_pregunta": "7.1.1.3",
+                "pregunta": "¿Se determina qué se debe obtener de proveedores externos para complementar los recursos internos?",
+                "respuesta": "La organización define criterios para recurrir a proveedores externos en función de la criticidad y coste-beneficio; la externalización se emplea cuando resulta más eficiente o cuando no existe la capacidad interna."
+              }
+            ]
+          },
+          {
+            "id_subseccion": "7.1.2",
+            "subseccion": "Personas",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "7.1.2.1",
+                "pregunta": "¿La organización proporciona las personas necesarias para la operación eficaz del sistema de gestión de la calidad?",
+                "respuesta": "Se dimensiona el personal en función de los procesos críticos y requisitos legales; en periodos de carga alta se emplean refuerzos temporales o redistribución de tareas para mantener la operación."
+              },
+              {
+                "id_pregunta": "7.1.2.2",
+                "pregunta": "¿Se incluyen en la provisión de personas los procesos necesarios para asegurar conformidad?",
+                "respuesta": "Los procesos clave cuentan con recursos humanos asignados y responsables definidos; sin embargo, la formalización de roles puede requerir actualización en algunas áreas."
+              }
+            ]
+          },
+          {
+            "id_subseccion": "7.1.3",
+            "subseccion": "Infraestructura",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "7.1.3.1",
+                "pregunta": "¿Se determina, proporciona y mantiene la infraestructura necesaria para la operación de los procesos?",
+                "respuesta": "Existe un plan de mantenimiento y renovación de infraestructura que prioriza activos críticos; no obstante, ciertas mejoras mayores se programan según disponibilidad de inversión."
+              }
+            ]
+          },
+          {
+            "id_subseccion": "7.1.4",
+            "subseccion": "Ambiente para la operación de los procesos",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "7.1.4.1",
+                "pregunta": "¿Se determina y mantiene el ambiente necesario para la operación de los procesos y para lograr la conformidad de los productos y servicios?",
+                "respuesta": "Se establecen condiciones ambientales y requisitos de seguridad para procesos sensibles; la monitorización y controles aplicados varían según el nivel de riesgo del proceso."
+              }
+            ]
+          },
+          {
+            "id_subseccion": "7.1.5",
+            "subseccion": "Recursos de seguimiento y medición",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "7.1.5.1",
+                "pregunta": "¿Los recursos de seguimiento y medición son adecuados para el tipo de actividades realizadas?",
+                "respuesta": "Se seleccionan equipos y métodos conforme a la necesidad técnica; en algunos casos se usan soluciones externas o muestreos complementarios cuando los recursos internos no cubren todos los requisitos."
+              },
+              {
+                "id_pregunta": "7.1.5.2",
+                "pregunta": "¿Se mantienen los recursos de seguimiento y medición para asegurar su adecuación continua?",
+                "respuesta": "Se ejecutan programas de mantenimiento y verificación periódica; la frecuencia de dichas actividades se ajusta según la criticidad del equipo y el historial de desempeño."
+              },
+              {
+                "id_pregunta": "7.1.5.3",
+                "pregunta": "¿Se conserva información documentada que evidencie la adecuación de los recursos de seguimiento y medición?",
+                "respuesta": "Los registros de mantenimiento, verificación y calibración se archivan en el sistema documental; la exhaustividad de la documentación puede variar según el origen del equipo."
+              },
+              {
+                "id_pregunta": "7.1.5.4",
+                "pregunta": "¿Se verifican o calibran los instrumentos a intervalos trazables y se documenta la base cuando no existen patrones internacionales?",
+                "respuesta": "Se sigue un programa de calibración que privilegia patrones trazables; cuando no hay patrones internacionales disponibles, se documenta la metodología aplicada para preservar la confianza en las mediciones."
+              },
+              {
+                "id_pregunta": "7.1.5.5",
+                "pregunta": "¿Los instrumentos de medición están identificados y protegidos contra ajustes, daño o deterioro?",
+                "respuesta": "Los equipos críticos se etiquetan y se mantienen en condiciones controladas; se aplican controles para minimizar manipulaciones no autorizadas, aunque la implementación puede mejorar en áreas con equipos numerosos."
+              },
+              {
+                "id_pregunta": "7.1.5.6",
+                "pregunta": "¿Se evalúa la validez de resultados previos cuando un instrumento se considera defectuoso y se actúa en consecuencia?",
+                "respuesta": "Cuando una verificación indica defecto, se revisan mediciones pasadas potencialmente afectadas y se definen acciones correctivas y de comunicación según el impacto detectado."
+              }
+            ]
+          },
+          {
+            "id_subseccion": "7.1.6",
+            "subseccion": "Conocimientos organizativos",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "7.1.6.1",
+                "pregunta": "¿La organización determina los conocimientos necesarios para la operación de sus procesos y para lograr la conformidad de los productos y servicios?",
+                "respuesta": "Se identifican conocimientos críticos (técnicos, normativos y de proceso) que deben mantenerse; la identificación es continua para atender cambios tecnológicos y de contexto."
+              },
+              {
+                "id_pregunta": "7.1.6.2",
+                "pregunta": "¿Se mantienen y ponen a disposición los conocimientos en la medida necesaria?",
+                "respuesta": "Se documentan procedimientos, lecciones aprendidas y guías técnicas accesibles; en la práctica, parte del conocimiento experto reside en personas y se planifica su transferencia."
+              },
+              {
+                "id_pregunta": "7.1.6.3",
+                "pregunta": "¿La organización considera cómo adquirir o acceder a conocimientos adicionales cuando sea necesario?",
+                "respuesta": "Se contemplan opciones como formación, contratación o colaboración externa para cubrir brechas de conocimiento según la prioridad y recursos disponibles."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id_seccion": "7.2",
+        "seccion": "Competencia",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "7.2.0.1",
+            "pregunta": "¿La organización determina la competencia necesaria de las personas que realizan trabajo que afecta al desempeño de la calidad?",
+            "respuesta": "Se establecen perfiles de competencia vinculados a tareas críticas; estos perfiles se revisan cuando cambian los requisitos del puesto o las demandas del proceso."
+          },
+          {
+            "id_pregunta": "7.2.0.2",
+            "pregunta": "¿La organización se asegura de que las personas sean competentes en base a educación, formación o experiencia?",
+            "respuesta": "Se utilizan registros de formación y certificaciones como evidencia; cuando la experiencia es clave, se integran criterios de evaluación práctica para validar la competencia."
+          },
+          {
+            "id_pregunta": "7.2.0.3",
+            "pregunta": "¿Se toman acciones para adquirir la competencia necesaria y se evalúa la eficacia de dichas acciones?",
+            "respuesta": "Se planifican capacitaciones y planes de desarrollo, y se monitorea su impacto en desempeño mediante indicadores o evaluaciones post-formación."
+          },
+          {
+            "id_pregunta": "7.2.0.4",
+            "pregunta": "¿Se conserva información documentada como evidencia de la competencia?",
+            "respuesta": "Los registros de formación, certificaciones y evaluaciones se archivan como evidencia, aunque la estandarización de dichos registros puede estar en evolución."
+          }
+        ]
+      },
+      {
+        "id_seccion": "7.3",
+        "seccion": "Toma de conciencia",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "7.3.0.1",
+            "pregunta": "¿Las personas que realizan el trabajo bajo control organizacional son conscientes de la política de la calidad?",
+            "respuesta": "La política se comunica en inducciones y campañas internas; el grado de comprensión operativa se refuerza mediante gestión por objetivos y conversaciones de equipo."
+          },
+          {
+            "id_pregunta": "7.3.0.2",
+            "pregunta": "¿Están al tanto delos objetivos de la calidad pertinentes?",
+            "respuesta": "Los objetivos se publican y se traducen en metas de equipo; sin embargo, la alineación completa requiere seguimiento y retroalimentación continua."
+          },
+          {
+            "id_pregunta": "7.3.0.3",
+            "pregunta": "¿Conocen su contribución a la eficacia del sistema y los beneficios de mejorar el desempeño de la calidad?",
+            "respuesta": "Se promueve la conexión entre tareas diarias y resultados de calidad a través de indicadores y reconocimientos, lo que facilita la comprensión del impacto individual."
+          },
+          {
+            "id_pregunta": "7.3.0.4",
+            "pregunta": "¿Están informadas sobre las implicaciones de no cumplir los requisitos del sistema de gestión de la calidad?",
+            "respuesta": "Se realizan sesiones informativas sobre riesgos y consecuencias, con ejemplos prácticos para sensibilizar, aunque la retención del mensaje varía entre áreas."
+          }
+        ]
+      },
+      {
+        "id_seccion": "7.4",
+        "seccion": "Comunicación",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "7.4.0.1",
+            "pregunta": "¿La organización ha determinado el contenido de las comunicaciones internas y externas pertinentes al sistema de gestión de la calidad?",
+            "respuesta": "Se definen mensajes clave y formatos para comunicación, adaptándolos al público objetivo; la especificidad del contenido se ajusta según el contexto y la audiencia."
+          },
+          {
+            "id_pregunta": "7.4.0.2",
+            "pregunta": "¿Se ha definido cuándo comunicar la información relacionada con la calidad?",
+            "respuesta": "Se establecen momentos de comunicación (reportes periódicos, alertas operativas) y criterios para comunicaciones ad-hoc ante eventos relevantes."
+          },
+          {
+            "id_pregunta": "7.4.0.3",
+            "pregunta": "¿Se ha determinado a quién comunicar?",
+            "respuesta": "Se identifican audiencias internas y externas (dirección, operaciones, clientes, proveedores) y se asignan responsables para cada tipo de comunicación."
+          },
+          {
+            "id_pregunta": "7.4.0.4",
+            "pregunta": "¿Se ha definido cómo comunicar (canales y formatos)?",
+            "respuesta": "Se emplean canales múltiples (intranet, correos, reuniones, reportes) seleccionados según urgencia y naturaleza del mensaje, buscando trazabilidad y registro cuando es necesario."
+          }
+        ]
+      },
+      {
+        "id_seccion": "7.5",
+        "seccion": "Información documentada",
+        "subsecciones": [
+          {
+            "id_subseccion": "7.5.1",
+            "subseccion": "Generalidades",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "7.5.1.1",
+                "pregunta": "¿El sistema de gestión incluye la información documentada requerida por la Norma Internacional?",
+                "respuesta": "Se mantiene la documentación mínima exigida por la norma y se revisa periódicamente para asegurar cumplimiento, con atención especial a los documentos objeto de auditoría."
+              },
+              {
+                "id_pregunta": "7.5.1.2",
+                "pregunta": "¿Se mantiene la información documentada que la organización ha determinado como necesaria para la eficacia del sistema?",
+                "respuesta": "La organización conserva procedimientos, registros y guías consideradas críticas para la operación; en algunos casos se trabaja en consolidar y estandarizar formatos."
+              }
+            ]
+          },
+          {
+            "id_subseccion": "7.5.2",
+            "subseccion": "Creación y actualización",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "7.5.2.1",
+                "pregunta": "¿Se aseguran criterios adecuados para la identificación y descripción de la información documentada (título, fecha, autor, referencia)?",
+                "respuesta": "Los documentos incluyen metadatos básicos y referencias; la calidad de esta identificación mejora con la estandarización de plantillas."
+              },
+              {
+                "id_pregunta": "7.5.2.2",
+                "pregunta": "¿Se define el formato y los medios de soporte adecuados para la información documentada?",
+                "respuesta": "Se especifican formatos (electrónico, impreso) y normas de versión; la elección responde a la accesibilidad y la preservación de la legibilidad."
+              },
+              {
+                "id_pregunta": "7.5.2.3",
+                "pregunta": "¿Se realiza revisión y aprobación con respecto a la idoneidad y adecuación antes de publicar la información documentada?",
+                "respuesta": "Los documentos pasan por un proceso de revisión y firma electrónica o autorizaciones formales; la rigurosidad del proceso varía según la criticidad del documento."
+              }
+            ]
+          },
+          {
+            "id_subseccion": "7.5.3",
+            "subseccion": "Control de la información documentada",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "7.5.3.1",
+                "pregunta": "¿La información documentada está disponible y adecuada para su uso dónde y cuándo se necesita?",
+                "respuesta": "Se gestiona el acceso mediante el sistema documental y permisos; sin embargo, en ocasiones se requieren mejoras en la organización de archivos para facilitar la recuperación rápida."
+              },
+              {
+                "id_pregunta": "7.5.3.2",
+                "pregunta": "¿La información documentada está protegida adecuadamente contra pérdida de confidencialidad, uso inadecuado o pérdida de integridad?",
+                "respuesta": "Se aplican controles de acceso, backups y políticas de seguridad de la información, aunque la madurez de estas prácticas difiere entre unidades."
+              },
+              {
+                "id_pregunta": "7.5.3.3",
+                "pregunta": "¿Se controlan actividades como distribución, acceso, recuperación y uso de la información documentada?",
+                "respuesta": "Existen procesos para distribuir y controlar versiones; la trazabilidad se mejora mediante registros de acceso y control de cambios."
+              },
+              {
+                "id_pregunta": "7.5.3.4",
+                "pregunta": "¿Se garantiza el almacenamiento y preservación, incluida la preservación de la legibilidad?",
+                "respuesta": "Se usan repositorios con políticas de retención y backups para asegurar la legibilidad y disponibilidad a largo plazo."
+              },
+              {
+                "id_pregunta": "7.5.3.5",
+                "pregunta": "¿Se controla el cambio (por ejemplo, versiones) en la información documentada?",
+                "respuesta": "Los cambios se registran mediante control de versiones con historial y autorizaciones para evitar modificaciones no controladas."
+              },
+              {
+                "id_pregunta": "7.5.3.6",
+                "pregunta": "¿Se gestionan la retención y disposición de la información documentada?",
+                "respuesta": "Se definen plazos de retención según requisitos legales y operativos, y procedimientos para la disposición segura cuando corresponde."
+              },
+              {
+                "id_pregunta": "7.5.3.7",
+                "pregunta": "¿Se identifica y controla la información documentada de origen externo necesaria para la planificación y operación del sistema?",
+                "respuesta": "Las referencias externas críticas (normas, especificaciones de cliente) se registran y se controla su vigencia; la gestión se ajusta según la relevancia para la operación."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

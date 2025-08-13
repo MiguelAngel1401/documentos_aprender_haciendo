@@ -1,0 +1,135 @@
+{
+    "id_cliente": "empresa123",
+    "capitulo_id": "4",
+    "secciones": [
+      {
+        "id_seccion": "4.1",
+        "seccion": "Comprensión de la organización y de su contexto",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "4.1.0.1",
+            "pregunta": "¿La organización ha identificado cuestiones externas e internas que son pertinentes para su propósito?",
+            "respuesta": "Sí, se realizó un análisis PESTEL para evaluar el contexto externo e interno, incluyendo aspectos políticos, económicos y sociales. Se documentó en un informe de contexto estratégico que se actualiza anualmente."
+          },
+          {
+            "id_pregunta": "4.1.0.2",
+            "pregunta": "¿La organización revisa y actualiza esta información de forma periódica?",
+            "respuesta": "Se revisa cada seis meses en reuniones de planificación estratégica, aunque no siempre se actualizan todos los elementos identificados inicialmente."
+          },
+          {
+            "id_pregunta": "4.1.0.3",
+            "pregunta": "¿La organización considera el cambio climático dentro de su análisis de contexto externo?",
+            "respuesta": "Sí, el cambio climático se considera un riesgo relevante para las operaciones. Se han definido acciones de mitigación en caso de eventos climáticos extremos."
+          }
+        ]
+      },
+      {
+        "id_seccion": "4.2",
+        "seccion": "Comprensión de las necesidades y expectativas de las partes interesadas",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "4.2.0.1",
+            "pregunta": "¿La organización ha determinado las partes interesadas que son pertinentes al sistema de gestión de calidad?",
+            "respuesta": "Sí, se identificaron las partes interesadas durante la implementación del sistema. La lista incluye clientes, empleados, proveedores, entes gubernamentales y la comunidad local. Esta información se encuentra en una matriz que se revisa anualmente."
+          },
+          {
+            "id_pregunta": "4.2.0.2",
+            "pregunta": "¿La organización ha identificado los requisitos de estas partes interesadas que son pertinentes para el sistema de gestión de calidad?",
+            "respuesta": "Se han identificado los requisitos de los clientes mediante encuestas y reclamos, y de los empleados mediante evaluaciones internas. Sin embargo, no hay un proceso formal para registrar o actualizar los requisitos de otras partes interesadas como autoridades o comunidad."
+          },
+          {
+            "id_pregunta": "4.2.0.3",
+            "pregunta": "¿La organización realiza el seguimiento y la revisión de la información sobre las partes interesadas y sus requisitos pertinentes?",
+            "respuesta": "No existe un procedimiento específico para el seguimiento. En la práctica, se revisa la información cuando ocurre algún evento relevante, pero no hay una metodología planificada ni evidencia documentada de revisión periódica."
+          }
+        ]
+      },
+      {
+        "id_seccion": "4.3",
+        "seccion": "Determinación del alcance del sistema de gestión de calidad",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "4.3.0.1",
+            "pregunta": "¿La organización ha considerado las cuestiones externas e internas al definir el alcance del sistema de gestión de calidad?",
+            "respuesta": "Sí, se analizaron factores internos como la estructura organizativa y externos como las condiciones del mercado. Esta información está documentada en el análisis FODA y se menciona en el alcance del sistema."
+          },
+          {
+            "id_pregunta": "4.3.0.2",
+            "pregunta": "¿Se han tenido en cuenta los requisitos de las partes interesadas pertinentes en la determinación del alcance?",
+            "respuesta": "Solo se incluyeron los requisitos del cliente, ya que no se identificaron claramente los de otras partes interesadas al momento de definir el alcance."
+          },
+          {
+            "id_pregunta": "4.3.0.3",
+            "pregunta": "¿La organización ha considerado los productos y servicios al definir el alcance del sistema?",
+            "respuesta": "Sí, el documento del alcance especifica los productos de fabricación incluidos en el sistema, así como los servicios postventa."
+          },
+          {
+            "id_pregunta": "4.3.0.4",
+            "pregunta": "¿El alcance se mantiene como información documentada y está disponible para las partes interesadas pertinentes?",
+            "respuesta": "Sí, el alcance se encuentra documentado en el manual de calidad, disponible en el sistema de gestión documental interno accesible a todos los empleados. Se comparte también con los auditores externos."
+          },
+          {
+            "id_pregunta": "4.3.0.5",
+            "pregunta": "¿Se justifica de forma adecuada cualquier exclusión de los requisitos de la norma que no sean aplicables?",
+            "respuesta": "Sí, se documentó la exclusión del diseño y desarrollo de productos con base en que la organización solo fabrica bajo especificación del cliente, sin realizar actividades de diseño propias."
+          }
+        ]
+      },
+      {
+        "id_seccion": "4.4",
+        "seccion": "Sistema de gestión de la calidad y sus procesos",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "4.4.0.1",
+            "pregunta": "¿La organización ha determinado los procesos necesarios para el sistema de gestión de calidad?",
+            "respuesta": "Sí, se ha definido un mapa de procesos que incluye procesos estratégicos, operativos y de apoyo. Este mapa está documentado y disponible para el personal."
+          },
+          {
+            "id_pregunta": "4.4.0.2",
+            "pregunta": "¿Se han identificado entradas y salidas de cada proceso?",
+            "respuesta": "Sí, cada ficha de proceso incluye claramente las entradas requeridas y las salidas esperadas."
+          },
+          {
+            "id_pregunta": "4.4.0.3",
+            "pregunta": "¿Se ha definido la secuencia e interacción de los procesos?",
+            "respuesta": "La interacción está definida en el mapa de procesos y se refuerza mediante diagramas de flujo dentro de cada procedimiento."
+          },
+          {
+            "id_pregunta": "4.4.0.4",
+            "pregunta": "¿Se han establecido criterios, métodos e indicadores para asegurar la eficacia de los procesos?",
+            "respuesta": "Sí, cada proceso tiene indicadores clave de desempeño (KPI) definidos, con metas mensuales revisadas en reuniones de dirección."
+          },
+          {
+            "id_pregunta": "4.4.0.5",
+            "pregunta": "¿Se han identificado los recursos necesarios y se asegura su disponibilidad?",
+            "respuesta": "Sí, se asignan recursos financieros y humanos en el presupuesto anual, y se evalúan durante las revisiones por la dirección."
+          },
+          {
+            "id_pregunta": "4.4.0.6",
+            "pregunta": "¿Se han asignado claramente responsabilidades y autoridades en los procesos?",
+            "respuesta": "Sí, cada procedimiento define los responsables y sus roles, además esta información está reflejada en los organigramas funcionales."
+          },
+          {
+            "id_pregunta": "4.4.0.7",
+            "pregunta": "¿Se han identificado riesgos y oportunidades asociados a los procesos?",
+            "respuesta": "Sí, mediante un análisis de riesgos por proceso usando metodología AMEF. Se planifican acciones para tratar los riesgos significativos."
+          },
+          {
+            "id_pregunta": "4.4.0.8",
+            "pregunta": "¿Se han establecido métodos de seguimiento, medición y evaluación de los procesos?",
+            "respuesta": "Sí, se realiza seguimiento mensual a los indicadores. Cuando se detectan desviaciones, se implementan acciones correctivas y se documentan en informes de mejora."
+          },
+          {
+            "id_pregunta": "4.4.0.9",
+            "pregunta": "¿Se identifican oportunidades de mejora para los procesos y el sistema de gestión de calidad?",
+            "respuesta": "Sí, se registran en un sistema de gestión de no conformidades y oportunidades, y se priorizan según impacto y factibilidad."
+          },
+          {
+            "id_pregunta": "4.4.0.10",
+            "pregunta": "¿Existe información documentada suficiente para apoyar la operación y demostrar que los procesos se realizan según lo planificado?",
+            "respuesta": "Sí, todos los procesos tienen procedimientos e instructivos documentados y almacenados en el sistema de gestión documental con control de versiones."
+          }
+        ]
+      }
+    ]
+  }

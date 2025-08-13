@@ -1,0 +1,160 @@
+{
+    "id_cliente": "empresa123",
+    "capitulo_id": "5",
+    "secciones": [
+      {
+        "id_seccion": "5.1",
+        "seccion": "Liderazgo y compromiso",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "5.1.0.1",
+            "pregunta": "¿La alta dirección ha demostrado liderazgo tomando responsabilidad por la eficacia del sistema de gestión de la calidad?",
+            "respuesta": "Sí, la alta dirección participa activamente en las revisiones del sistema de gestión y toma decisiones estratégicas basadas en los resultados del mismo."
+          },
+          {
+            "id_pregunta": "5.1.0.2",
+            "pregunta": "¿Se han establecido la política y los objetivos de la calidad en alineación con la estrategia de la organización?",
+            "respuesta": "Sí, los objetivos de calidad se alinean con el plan estratégico quinquenal de la empresa y se revisan anualmente."
+          },
+          {
+            "id_pregunta": "5.1.0.3",
+            "pregunta": "¿La política de la calidad se comunica, entiende y aplica dentro de la organización?",
+            "respuesta": "Sí, se comunica a través de charlas de inducción, cartelería interna y la intranet corporativa."
+          },
+          {
+            "id_pregunta": "5.1.0.4",
+            "pregunta": "¿Están integrados los requisitos del sistema de gestión de calidad en los procesos de negocio?",
+            "respuesta": "Sí, los procedimientos y controles de calidad están integrados en la operación diaria de los procesos productivos y administrativos."
+          },
+          {
+            "id_pregunta": "5.1.0.5",
+            "pregunta": "¿La organización promueve el enfoque basado en procesos?",
+            "respuesta": "Sí, todos los procesos clave están documentados y mapeados en un sistema de gestión visual y se promueve el enfoque entre todos los niveles."
+          },
+          {
+            "id_pregunta": "5.1.0.6",
+            "pregunta": "¿La alta dirección asegura la disponibilidad de los recursos necesarios para el sistema de gestión de calidad?",
+            "respuesta": "Sí, anualmente se asigna un presupuesto específico para el mantenimiento y mejora del sistema de calidad."
+          },
+          {
+            "id_pregunta": "5.1.0.7",
+            "pregunta": "¿Se comunica la importancia de una gestión de calidad eficaz y conforme?",
+            "respuesta": "Sí, en cada reunión trimestral de liderazgo se refuerza el compromiso con la calidad como valor clave."
+          },
+          {
+            "id_pregunta": "5.1.0.8",
+            "pregunta": "¿Se asegura que el sistema de gestión de la calidad logre los resultados previstos?",
+            "respuesta": "Se utilizan indicadores clave que permiten medir el cumplimiento de los objetivos. Los resultados son analizados mensualmente."
+          },
+          {
+            "id_pregunta": "5.1.0.9",
+            "pregunta": "¿La dirección involucra, dirige y apoya a las personas en la organización?",
+            "respuesta": "Sí, hay programas de liderazgo participativo y retroalimentación continua para empoderar a los colaboradores."
+          },
+          {
+            "id_pregunta": "5.1.0.10",
+            "pregunta": "¿Se promueve la mejora continua desde la dirección?",
+            "respuesta": "Sí, se incentivan iniciativas de mejora continua a través de un programa interno llamado 'Ideas que transforman'."
+          },
+          {
+            "id_pregunta": "5.1.0.11",
+            "pregunta": "¿La dirección apoya otros roles para demostrar liderazgo en sus áreas?",
+            "respuesta": "Sí, cada jefe de área tiene KPIs vinculados al sistema de calidad y responsabilidades de liderazgo funcional."
+          },
+          {
+            "id_pregunta": "5.1.0.12",
+            "pregunta": "¿Se determinan y cumplen los requisitos legales, reglamentarios y del cliente?",
+            "respuesta": "Sí, se dispone de un sistema de cumplimiento normativo que es monitoreado por el área legal y de calidad mensualmente."
+          },
+          {
+            "id_pregunta": "5.1.0.13",
+            "pregunta": "¿Se tratan los riesgos y oportunidades que pueden afectar la conformidad y la satisfacción del cliente?",
+            "respuesta": "Sí, se realiza un análisis FMEA trimestral para los procesos clave de cara al cliente."
+          },
+          {
+            "id_pregunta": "5.1.0.14",
+            "pregunta": "¿Se mantiene el enfoque en cumplir los requisitos y aumentar la satisfacción del cliente?",
+            "respuesta": "Sí, los resultados de las encuestas de satisfacción del cliente se presentan a la alta dirección en cada revisión por la dirección."
+          }
+        ]
+      },
+      {
+        "id_seccion": "5.2",
+        "seccion": "Política de la calidad",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "5.2.0.1",
+            "pregunta": "¿La política de calidad es adecuada al propósito y contexto de la organización?",
+            "respuesta": "Sí, fue desarrollada a partir del análisis estratégico y considera las necesidades del entorno y partes interesadas."
+          },
+          {
+            "id_pregunta": "5.2.0.2",
+            "pregunta": "¿La política proporciona un marco para establecer y revisar los objetivos de calidad?",
+            "respuesta": "Sí, cada objetivo de calidad está vinculado directamente a uno de los compromisos establecidos en la política."
+          },
+          {
+            "id_pregunta": "5.2.0.3",
+            "pregunta": "¿Incluye la política el compromiso de cumplir requisitos aplicables?",
+            "respuesta": "Sí, el cumplimiento legal y normativo es uno de los pilares de la política y está explícitamente mencionado."
+          },
+          {
+            "id_pregunta": "5.2.0.4",
+            "pregunta": "¿Incluye la política el compromiso de mejora continua?",
+            "respuesta": "Sí, la mejora continua es uno de los valores fundamentales de la organización según se indica en la política."
+          },
+          {
+            "id_pregunta": "5.2.0.5",
+            "pregunta": "¿La política de calidad está documentada?",
+            "respuesta": "Sí, está incluida en el manual de calidad y también disponible en formato físico en todas las áreas."
+          },
+          {
+            "id_pregunta": "5.2.0.6",
+            "pregunta": "¿Se comunica, entiende y aplica dentro de la organización?",
+            "respuesta": "Sí, es parte del proceso de inducción de nuevos empleados y se refuerza cada semestre en campañas internas."
+          },
+          {
+            "id_pregunta": "5.2.0.7",
+            "pregunta": "¿Está disponible para las partes interesadas pertinentes?",
+            "respuesta": "Sí, está publicada en el sitio web corporativo y se entrega a clientes y auditores externos cuando es requerido."
+          }
+        ]
+      },
+      {
+        "id_seccion": "5.3",
+        "seccion": "Roles, responsabilidades y autoridades en la organización",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "5.3.0.1",
+            "pregunta": "¿Están asignadas y comunicadas las responsabilidades y autoridades del sistema de gestión de calidad?",
+            "respuesta": "Sí, están claramente definidas en los perfiles de cargo y se comunican a través de talleres y manuales de funciones."
+          },
+          {
+            "id_pregunta": "5.3.0.2",
+            "pregunta": "¿Está definida la responsabilidad de asegurar la conformidad del sistema con la norma?",
+            "respuesta": "Sí, el gerente de calidad tiene esa responsabilidad explícita en su descripción de puesto."
+          },
+          {
+            "id_pregunta": "5.3.0.3",
+            "pregunta": "¿Se verifica que los procesos entreguen los resultados previstos?",
+            "respuesta": "Sí, se realiza mediante seguimiento de KPIs y revisión de informes mensuales operativos."
+          },
+          {
+            "id_pregunta": "5.3.0.4",
+            "pregunta": "¿Se informa a la dirección sobre el desempeño del sistema y las oportunidades de mejora?",
+            "respuesta": "Sí, el responsable del sistema presenta informes trimestrales en reuniones ejecutivas."
+          },
+          {
+            "id_pregunta": "5.3.0.5",
+            "pregunta": "¿Se promueve el enfoque al cliente en toda la organización?",
+            "respuesta": "Sí, se integra en la cultura organizacional mediante capacitaciones, reconocimientos y campañas internas."
+          },
+          {
+            "id_pregunta": "5.3.0.6",
+            "pregunta": "¿Se asegura la integridad del sistema durante los cambios?",
+            "respuesta": "Sí, se sigue un protocolo de gestión del cambio que incluye análisis de impacto y aprobación por la alta dirección."
+          }
+        ]
+      }
+    ]
+  }
+  

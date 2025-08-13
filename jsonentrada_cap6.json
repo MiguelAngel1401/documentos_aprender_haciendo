@@ -1,0 +1,140 @@
+{
+    "id_cliente": "empresa123",
+    "capitulo_id": "6",
+    "secciones": [
+      {
+        "id_seccion": "6.1",
+        "seccion": "Acciones para tratar riesgos y oportunidades",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "6.1.0.1",
+            "pregunta": "¿La organización ha considerado las cuestiones del contexto y requisitos pertinentes al planificar su sistema de gestión de calidad?",
+            "respuesta": "Sí, se realiza un análisis anual del contexto y partes interesadas, el cual alimenta la matriz de riesgos estratégicos."
+          },
+          {
+            "id_pregunta": "6.1.0.2",
+            "pregunta": "¿Se han identificado y determinado los riesgos y oportunidades que deben ser tratados?",
+            "respuesta": "Sí, se utilizan metodologías como FODA y análisis de riesgos por proceso para determinar riesgos y oportunidades relevantes."
+          },
+          {
+            "id_pregunta": "6.1.0.3",
+            "pregunta": "¿Las acciones tomadas aseguran que se logren los resultados previstos del sistema de gestión de calidad?",
+            "respuesta": "Sí, las acciones están alineadas con indicadores clave de desempeño que son monitoreados trimestralmente."
+          },
+          {
+            "id_pregunta": "6.1.0.4",
+            "pregunta": "¿Se previenen o reducen efectos indeseados como parte de la planificación?",
+            "respuesta": "Sí, se cuenta con planes de contingencia y controles internos diseñados para mitigar riesgos críticos."
+          },
+          {
+            "id_pregunta": "6.1.0.5",
+            "pregunta": "¿Se promueve la mejora continua a través del tratamiento de riesgos y oportunidades?",
+            "respuesta": "Sí, cada ciclo de revisión de riesgos incluye un componente de identificación de oportunidades de mejora."
+          },
+          {
+            "id_pregunta": "6.1.0.6",
+            "pregunta": "¿La organización planifica acciones específicas para tratar los riesgos y oportunidades?",
+            "respuesta": "Sí, estas acciones están registradas en el plan de calidad anual y asignadas a responsables específicos."
+          },
+          {
+            "id_pregunta": "6.1.0.7",
+            "pregunta": "¿Se integran e implementan dichas acciones en los procesos del sistema de gestión?",
+            "respuesta": "Sí, cada acción está vinculada a un proceso dentro del mapa de procesos institucional."
+          },
+          {
+            "id_pregunta": "6.1.0.8",
+            "pregunta": "¿Se evalúa la eficacia de las acciones tomadas frente a riesgos y oportunidades?",
+            "respuesta": "Sí, la eficacia se mide a través de auditorías internas y seguimiento de resultados de los planes de acción."
+          }
+        ]
+      },
+      {
+        "id_seccion": "6.2",
+        "seccion": "Objetivos de la calidad y planificación para lograrlos",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "6.2.0.1",
+            "pregunta": "¿La organización ha establecido objetivos de calidad en funciones, niveles y procesos pertinentes?",
+            "respuesta": "Sí, los objetivos se definen anualmente y se despliegan en cascada a través de cada área funcional."
+          },
+          {
+            "id_pregunta": "6.2.0.2",
+            "pregunta": "¿Son coherentes los objetivos con la política de calidad?",
+            "respuesta": "Sí, los objetivos derivan directamente de los compromisos definidos en la política de calidad."
+          },
+          {
+            "id_pregunta": "6.2.0.3",
+            "pregunta": "¿Los objetivos de calidad son medibles?",
+            "respuesta": "Sí, cada objetivo está asociado a un indicador cuantitativo con meta anual definida."
+          },
+          {
+            "id_pregunta": "6.2.0.4",
+            "pregunta": "¿Se toman en cuenta los requisitos aplicables al definir los objetivos?",
+            "respuesta": "Sí, se consideran tanto requisitos legales como contractuales y normativos."
+          },
+          {
+            "id_pregunta": "6.2.0.5",
+            "pregunta": "¿Los objetivos contribuyen a la conformidad del producto y satisfacción del cliente?",
+            "respuesta": "Sí, algunos objetivos están enfocados específicamente en disminuir no conformidades y mejorar la percepción del cliente."
+          },
+          {
+            "id_pregunta": "6.2.0.6",
+            "pregunta": "¿Se realiza seguimiento a los objetivos de calidad?",
+            "respuesta": "Sí, el avance se revisa mensualmente en los comités de calidad y mejora continua."
+          },
+          {
+            "id_pregunta": "6.2.0.7",
+            "pregunta": "¿Los objetivos se comunican adecuadamente dentro de la organización?",
+            "respuesta": "Sí, se publican en la intranet, se comparten en reuniones de equipo y se incluyen en boletines internos."
+          },
+          {
+            "id_pregunta": "6.2.0.8",
+            "pregunta": "¿Se actualizan los objetivos cuando es apropiado?",
+            "respuesta": "Sí, pueden ser ajustados durante las revisiones por la dirección en función de resultados o cambios estratégicos."
+          },
+          {
+            "id_pregunta": "6.2.0.9",
+            "pregunta": "¿Existe información documentada sobre los objetivos de calidad?",
+            "respuesta": "Sí, están documentados en el sistema de gestión documental y vinculados al plan estratégico de calidad."
+          },
+          {
+            "id_pregunta": "6.2.0.10",
+            "pregunta": "¿La planificación de los objetivos define qué se va a hacer, recursos, responsables, tiempos y evaluación?",
+            "respuesta": "Sí, cada objetivo tiene un plan de acción detallado con responsables, cronograma y método de evaluación."
+          }
+        ]
+      },
+      {
+        "id_seccion": "6.3",
+        "seccion": "Planificación de los cambios",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "6.3.0.1",
+            "pregunta": "¿Los cambios al sistema de gestión se planifican de forma sistemática?",
+            "respuesta": "Sí, se sigue un procedimiento formal de gestión del cambio que incluye evaluación y aprobación previa."
+          },
+          {
+            "id_pregunta": "6.3.0.2",
+            "pregunta": "¿Se considera el propósito y las consecuencias de los cambios?",
+            "respuesta": "Sí, se incluye un análisis de impacto que evalúa riesgos operativos, legales y de calidad."
+          },
+          {
+            "id_pregunta": "6.3.0.3",
+            "pregunta": "¿Se mantiene la integridad del sistema de calidad durante los cambios?",
+            "respuesta": "Sí, se aplican controles y validaciones antes de la implementación completa de cualquier cambio."
+          },
+          {
+            "id_pregunta": "6.3.0.4",
+            "pregunta": "¿Se consideran los recursos disponibles antes de efectuar cambios?",
+            "respuesta": "Sí, el plan de cambios incluye la evaluación de recursos técnicos, humanos y financieros."
+          },
+          {
+            "id_pregunta": "6.3.0.5",
+            "pregunta": "¿Se definen claramente las responsabilidades y autoridades durante el cambio?",
+            "respuesta": "Sí, se designan responsables y roles específicos mediante actas de comité o planillas de cambio."
+          }
+        ]
+      }
+    ]
+  }
+  

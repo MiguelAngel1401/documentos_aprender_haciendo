@@ -1,0 +1,127 @@
+{
+    "id_cliente": "empresa123",
+    "capitulo_id": "10",
+    "secciones": [
+      {
+        "id_seccion": "10.1",
+        "seccion": "Generalidades",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "10.1.0.1",
+            "pregunta": "¿La organización determina y selecciona oportunidades de mejora para cumplir requisitos y aumentar la satisfacción del cliente?",
+            "respuesta": "Se realizan evaluaciones periódicas (análisis de desempeño y encuestas) y se priorizan oportunidades según impacto y viabilidad; algunas se implementan como pilotos antes de su despliegue general."
+          },
+          {
+            "id_pregunta": "10.1.0.2",
+            "pregunta": "¿Se mejoran procesos con el objetivo de prevenir no conformidades?",
+            "respuesta": "Sí, existe un enfoque preventivo que combina revisiones procesales y controles adicionales en puntos críticos, aunque la aplicación puede variar según la criticidad y recursos disponibles."
+          },
+          {
+            "id_pregunta": "10.1.0.3",
+            "pregunta": "¿Se mejoran productos y servicios para cumplir requisitos conocidos y previstos?",
+            "respuesta": "Se realizan ajustes y mejoras basadas en retroalimentación de clientes y análisis de tendencias; en algunos casos se planifican mejoras proactivas anticipando expectativas del mercado."
+          },
+          {
+            "id_pregunta": "10.1.0.4",
+            "pregunta": "¿Se buscan mejorar los resultados del sistema de gestión de la calidad?",
+            "respuesta": "La organización revisa indicadores clave y lanza iniciativas de mejora cuando se detectan desviaciones, combinando acciones tácticas y cambios estructurales cuando es necesario."
+          }
+        ]
+      },
+      {
+        "id_seccion": "10.2",
+        "seccion": "No conformidad y acción correctiva",
+        "subsecciones": [
+          {
+            "id_subseccion": "10.2.1",
+            "subseccion": "Reacción y tratamiento de no conformidades",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "10.2.1.1",
+                "pregunta": "¿La organización reacciona ante una no conformidad y toma acciones para controlarla y corregirla?",
+                "respuesta": "En general se activan procedimientos de contención y se aplican correcciones inmediatas; la rapidez y el alcance dependen de la gravedad y de la información disponible en el momento."
+              },
+              {
+                "id_pregunta": "10.2.1.2",
+                "pregunta": "¿Se afrontan las consecuencias derivadas de la no conformidad?",
+                "respuesta": "Se registran y evalúan las consecuencias (operativas, económicas y de reputación) y se definen medidas de mitigación, aunque en casos complejos puede requerirse coordinación interdepartamental."
+              },
+              {
+                "id_pregunta": "10.2.1.3",
+                "pregunta": "¿Se evalúa la necesidad de acciones para eliminar las causas y evitar recurrencias?",
+                "respuesta": "Sí, se realiza una evaluación basada en la criticidad de la no conformidad; en situaciones de alto riesgo se exige un análisis más profundo para planear acciones correctivas."
+              },
+              {
+                "id_pregunta": "10.2.1.4",
+                "pregunta": "¿Se revisa la no conformidad como parte del proceso de análisis?",
+                "respuesta": "La revisión inicial documenta los hechos y evidencia; cuando se identifican patrones se procede a análisis más detallados para definir las causas raíz."
+              },
+              {
+                "id_pregunta": "10.2.1.5",
+                "pregunta": "¿La organización determina las causas de la no conformidad?",
+                "respuesta": "Se emplean técnicas como el análisis causa-efecto o 5 porqués en las investigaciones, aunque la profundidad del análisis se ajusta según la complejidad del problema."
+              },
+              {
+                "id_pregunta": "10.2.1.6",
+                "pregunta": "¿Se verifica si existen no conformidades similares o potenciales en otros lugares?",
+                "respuesta": "Se realiza un cruce con registros históricos y procesos afines; si se detectan similitudes se amplía la investigación para evitar recurrencias en otras áreas."
+              },
+              {
+                "id_pregunta": "10.2.1.7",
+                "pregunta": "¿Se implementan las acciones necesarias y se revisa su eficacia?",
+                "respuesta": "Las acciones correctivas se ponen en marcha con responsables y plazos definidos; posteriormente se monitoriza su efecto y se ajustan si no alcanzan los resultados esperados."
+              },
+              {
+                "id_pregunta": "10.2.1.8",
+                "pregunta": "¿Se realizan cambios al sistema de gestión de la calidad cuando es necesario?",
+                "respuesta": "Cuando la causa raíz indica deficiencias sistémicas, se proponen cambios en procedimientos o controles; la implementación depende de evaluación de impacto y aprobación por la dirección."
+              },
+              {
+                "id_pregunta": "10.2.1.9",
+                "pregunta": "¿Las acciones correctivas son adecuadas a los efectos de las no conformidades encontradas?",
+                "respuesta": "Se procura que las medidas sean proporcionales al impacto, priorizando recursos hacia las no conformidades de mayor efecto, aunque en ocasiones las limitaciones operativas modulan la respuesta."
+              }
+            ]
+          },
+          {
+            "id_subseccion": "10.2.2",
+            "subseccion": "Conservación de información documentada",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "10.2.2.1",
+                "pregunta": "¿La organización conserva evidencia sobre la naturaleza de las no conformidades y las acciones tomadas?",
+                "respuesta": "Se mantienen registros que describen la no conformidad y las medidas aplicadas; la consistencia y nivel de detalle pueden variar según la fuente y el proceso que originó el registro."
+              },
+              {
+                "id_pregunta": "10.2.2.2",
+                "pregunta": "¿Se documentan los resultados de las acciones correctivas?",
+                "respuesta": "Los resultados se registran como parte del cierre de la acción correctiva y se vinculan con los indicadores relevantes para permitir su seguimiento, aunque en algunos casos la documentación requiere consolidación para auditorías."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id_seccion": "10.3",
+        "seccion": "Mejora continua",
+        "preguntas_y_respuestas": [
+          {
+            "id_pregunta": "10.3.0.1",
+            "pregunta": "¿La organización mejora continuamente la idoneidad, adecuación y eficacia del sistema de gestión de la calidad?",
+            "respuesta": "Existe un proceso de mejora continua alimentado por análisis de datos y revisiones por la dirección; sin embargo, la velocidad de mejora depende de prioridades estratégicas y recursos asignados."
+          },
+          {
+            "id_pregunta": "10.3.0.2",
+            "pregunta": "¿Se consideran los elementos de salida del análisis, evaluación y revisión por la dirección para identificar áreas de bajo desempeño u oportunidades?",
+            "respuesta": "Sí, los resultados de análisis y de la revisión por la dirección se utilizan para identificar focos de mejora, priorizándose aquellos con mayor impacto sobre la satisfacción del cliente."
+          },
+          {
+            "id_pregunta": "10.3.0.3",
+            "pregunta": "¿Se seleccionan y utilizan herramientas y metodologías para investigar causas y apoyar la mejora continua?",
+            "respuesta": "Se emplean metodologías como AMEF, 5 porqués y análisis estadístico cuando aplica; la selección depende de la naturaleza del problema y la disponibilidad de datos y especialistas."
+          }
+        ]
+      }
+    ]
+  }
+  

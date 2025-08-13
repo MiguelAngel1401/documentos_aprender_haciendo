@@ -1,0 +1,227 @@
+{
+    "id_cliente": "empresa123",
+    "capitulo_id": "9",
+    "secciones": [
+      {
+        "id_seccion": "9.1",
+        "seccion": "Seguimiento, medición, análisis y evaluación",
+        "subsecciones": [
+          {
+            "id_subseccion": "9.1.1",
+            "subseccion": "Generalidades",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "9.1.1.1",
+                "pregunta": "¿A qué aspectos considera la organización que es necesario hacer seguimiento y medición?",
+                "respuesta": "Se priorizan procesos y productos críticos, así como indicadores que impactan la conformidad y la satisfacción; la selección se revisa periódicamente para adaptarse a cambios operativos y de contexto."
+              },
+              {
+                "id_pregunta": "9.1.1.2",
+                "pregunta": "¿Qué métodos utiliza la organización para el seguimiento, la medición, el análisis y la evaluación?",
+                "respuesta": "Se combinan métodos cuantitativos (mediciones de proceso, indicadores) y cualitativos (encuestas, revisiones de evidencias), seleccionando el método más adecuado según la naturaleza del dato y la validez requerida."
+              },
+              {
+                "id_pregunta": "9.1.1.3",
+                "pregunta": "¿Cuándo se deben llevar a cabo las actividades de seguimiento y medición?",
+                "respuesta": "Los plazos se definen según la criticidad del indicador: algunos se miden en tiempo real, otros de forma diaria, mensual o anual; la programación busca equilibrio entre costo, frecuencia y utilidad de la información."
+              },
+              {
+                "id_pregunta": "9.1.1.4",
+                "pregunta": "¿Cuándo y cómo se analizan y evalúan los resultados del seguimiento y la medición?",
+                "respuesta": "Los resultados se analizan en ciclos establecidos (reuniones operativas, reportes trimestrales) y también ante señales de alerta; el análisis incorpora tendencias, comparaciones con metas y revisión por responsables técnicos."
+              },
+              {
+                "id_pregunta": "9.1.1.5",
+                "pregunta": "¿Se conserva información documentada como evidencia de las actividades de seguimiento y medición?",
+                "respuesta": "Se registran los resultados y las metodologías empleadas en el sistema documental; sin embargo, el nivel de detalle puede variar según el origen de los datos y los procedimientos aplicables."
+              }
+            ]
+          },
+          {
+            "id_subseccion": "9.1.2",
+            "subseccion": "Satisfacción del cliente",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "9.1.2.1",
+                "pregunta": "¿Cómo realiza la organización el seguimiento de las percepciones del cliente respecto al cumplimiento de requisitos?",
+                "respuesta": "Se recopila información mediante encuestas, retroalimentación directa y análisis de quejas; estas fuentes se triangulan para obtener una visión más completa de la percepción del cliente."
+              },
+              {
+                "id_pregunta": "9.1.2.2",
+                "pregunta": "¿Qué tipo de información relativa a puntos de vista y opiniones del cliente se obtiene?",
+                "respuesta": "Se obtienen tanto métricas cuantitativas (puntuaciones de satisfacción, NPS) como comentarios cualitativos que permiten entender causas subyacentes y expectativas emergentes."
+              },
+              {
+                "id_pregunta": "9.1.2.3",
+                "pregunta": "¿Qué métodos se determinan para obtener y utilizar la información del cliente?",
+                "respuesta": "Se establecen métodos adaptados al segmento de cliente (encuestas online, entrevistas, análisis de redes sociales) y se definen mecanismos para integrar los hallazgos en planes de acción y mejoras."
+              }
+            ]
+          },
+          {
+            "id_subseccion": "9.1.3",
+            "subseccion": "Análisis y evaluación",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "9.1.3.1",
+                "pregunta": "¿Se analizan y evalúan los datos e información originados por el seguimiento y la medición?",
+                "respuesta": "Sí, los datos se analizan para detectar tendencias, desviaciones y patrones; la profundidad del análisis depende de la criticidad y la disponibilidad de recursos analíticos."
+              },
+              {
+                "id_pregunta": "9.1.3.2",
+                "pregunta": "¿Se utilizan los resultados del análisis para demostrar la conformidad de productos y servicios con los requisitos?",
+                "respuesta": "Los resultados sirven como evidencia de conformidad y, cuando hay dudas, se activan verificaciones adicionales o muestreos complementarios."
+              },
+              {
+                "id_pregunta": "9.1.3.3",
+                "pregunta": "¿Los análisis contribuyen a evaluar y aumentar la satisfacción del cliente?",
+                "respuesta": "Los hallazgos se usan para priorizar acciones orientadas al cliente; se monitoriza el impacto de tales acciones para ajustar estrategias cuando no se obtienen mejoras esperadas."
+              },
+              {
+                "id_pregunta": "9.1.3.4",
+                "pregunta": "¿Los resultados ayudan a asegurar la conformidad y la eficacia del sistema de gestión de la calidad?",
+                "respuesta": "Los indicadores y evaluaciones permiten identificar brechas en la eficacia del sistema y orientar ajustes en controles y procedimientos cuando sea necesario."
+              },
+              {
+                "id_pregunta": "9.1.3.5",
+                "pregunta": "¿Se utiliza el análisis para demostrar que lo planificado se ha implementado con éxito?",
+                "respuesta": "Se contrastan metas versus resultados y se documentan las evidencias de implementación; si existen desviaciones, se analizan sus causas y se planifican acciones correctivas."
+              },
+              {
+                "id_pregunta": "9.1.3.6",
+                "pregunta": "¿Se evalúa el desempeño de los procesos y de los proveedores externos a partir del análisis?",
+                "respuesta": "Sí, el desempeño de procesos y proveedores se evalúa mediante KPIs y revisiones periódicas; los resultados influyen en decisiones de mejora y en la gestión de la cadena de suministro."
+              },
+              {
+                "id_pregunta": "9.1.3.7",
+                "pregunta": "¿Se determinan oportunidades de mejora dentro del sistema a partir de los resultados del análisis y la evaluación?",
+                "respuesta": "Los resultados se utilizan como insumo para identificar oportunidades de mejora y proveer elementos de entrada a la revisión por la dirección, priorizando según impacto y factibilidad."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id_seccion": "9.2",
+        "seccion": "Auditoría interna",
+        "subsecciones": [
+          {
+            "id_subseccion": "9.2.1",
+            "subseccion": "Requisitos generales de auditoría",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "9.2.1.1",
+                "pregunta": "¿La organización realiza auditorías internas a intervalos planificados para evaluar si el sistema cumple requisitos y se mantiene eficaz?",
+                "respuesta": "Se programan auditorías periódicas teniendo en cuenta la criticidad de procesos y resultados de auditorías previas; la efectividad depende de la cobertura y la calidad de la evidencia obtenida."
+              },
+              {
+                "id_pregunta": "9.2.1.2",
+                "pregunta": "¿Las auditorías comprueban el cumplimiento de los requisitos de la organización y de la norma aplicable?",
+                "respuesta": "Las auditorías se orientan a verificar ambos aspectos, aunque en ocasiones la profundidad de la verificación se ajusta a la disponibilidad de recursos y al alcance definido."
+              },
+              {
+                "id_pregunta": "9.2.1.3",
+                "pregunta": "¿Se confirma que el sistema está implementado y mantenido eficazmente?",
+                "respuesta": "Los hallazgos de auditoría permiten evaluar la implementación; cuando se detectan deficiencias se generan acciones correctivas con plazos y responsables."
+              }
+            ]
+          },
+          {
+            "id_subseccion": "9.2.2",
+            "subseccion": "Programa de auditoría y requisitos asociados",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "9.2.2.1",
+                "pregunta": "¿Se planifica, establece e implementa un programa de auditoría con frecuencia, métodos y responsabilidades definidos?",
+                "respuesta": "Existe un programa de auditoría que considera importancia de procesos, retroalimentación del cliente y auditorías previas; la planificación se ajusta a cambios relevantes en la organización."
+              },
+              {
+                "id_pregunta": "9.2.2.2",
+                "pregunta": "¿Se definen criterios y alcance para cada auditoría?",
+                "respuesta": "Para cada auditoría se documentan criterios y alcance, procurando que sean adecuados al objetivo de la revisión y a los procesos involucrados."
+              },
+              {
+                "id_pregunta": "9.2.2.3",
+                "pregunta": "¿Cómo se asegura la objetividad e imparcialidad en la selección de auditores y la ejecución de auditorías?",
+                "respuesta": "Se seleccionan auditores con competencias y, cuando es necesario, se recurre a auditores externos o independientes para garantizar imparcialidad."
+              },
+              {
+                "id_pregunta": "9.2.2.4",
+                "pregunta": "¿Se informan los resultados de las auditorías a la dirección pertinente y se toman acciones sin demora injustificada?",
+                "respuesta": "Los resultados se reportan a la dirección y se generan planes de acción; la priorización y la rapidez de ejecución varían según la gravedad de los hallazgos."
+              },
+              {
+                "id_pregunta": "9.2.2.5",
+                "pregunta": "¿Se conserva información documentada como evidencia del programa de auditoría y sus resultados?",
+                "respuesta": "Se archivan informes y evidencias de auditoría en el sistema documental, aunque la consistencia en el nivel de detalle puede mejorar según estandarización de formatos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id_seccion": "9.3",
+        "seccion": "Revisión por la dirección",
+        "subsecciones": [
+          {
+            "id_subseccion": "9.3.1",
+            "subseccion": "Requisitos de la revisión por la dirección",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "9.3.1.1",
+                "pregunta": "¿La alta dirección revisa el sistema de gestión de la calidad a intervalos planificados para asegurar su conveniencia, adecuación y eficacia?",
+                "respuesta": "La dirección realiza revisiones periódicas integradas en el ciclo de gobernanza; la profundidad de la revisión depende de prioridades estratégicas y de la calidad de los insumos presentados."
+              },
+              {
+                "id_pregunta": "9.3.1.2",
+                "pregunta": "¿Se revisa el estado de las acciones desde anteriores revisiones por la dirección?",
+                "respuesta": "Sí, el seguimiento de acciones previas forma parte del orden del día y se evalúa su grado de cierre y eficacia antes de acordar nuevas medidas."
+              },
+              {
+                "id_pregunta": "9.3.1.3",
+                "pregunta": "¿Se consideran los cambios en cuestiones externas e internas pertinentes al sistema, incluyendo la dirección estratégica?",
+                "respuesta": "Los cambios relevantes se incorporan en la discusión para ajustar la estrategia y prioridades del sistema de gestión de la calidad cuando corresponde."
+              },
+              {
+                "id_pregunta": "9.3.1.4",
+                "pregunta": "¿Qué información sobre el desempeño de la calidad se incluye en la revisión (tendencias e indicadores)?",
+                "respuesta": "Se presentan indicadores clave (no conformidades, resultados de mediciones, auditorías, satisfacción del cliente, desempeño de proveedores) y su tendencia para facilitar la toma de decisiones."
+              },
+              {
+                "id_pregunta": "9.3.1.5",
+                "pregunta": "¿Se evalúa la adecuación de los recursos para mantener un sistema eficaz?",
+                "respuesta": "La revisión contempla la disponibilidad y adecuación de recursos; cuando se detecta déficit se discuten opciones de reasignación o inversión."
+              },
+              {
+                "id_pregunta": "9.3.1.6",
+                "pregunta": "¿Se analiza la eficacia de las acciones tomadas para tratar los riesgos y oportunidades?",
+                "respuesta": "Se revisan los resultados de las acciones frente a los riesgos identificados y se ajustan las medidas si no se observan los efectos esperados."
+              },
+              {
+                "id_pregunta": "9.3.1.7",
+                "pregunta": "¿Se identifican nuevas oportunidades de mejora continua durante la revisión por la dirección?",
+                "respuesta": "La revisión por la dirección busca identificar y priorizar oportunidades de mejora, enfocándose en aquellas con mayor impacto sobre la calidad y la satisfacción del cliente."
+              }
+            ]
+          },
+          {
+            "id_subseccion": "9.3.2",
+            "subseccion": "Elementos de salida de la revisión",
+            "preguntas_y_respuestas": [
+              {
+                "id_pregunta": "9.3.2.1",
+                "pregunta": "¿Los elementos de salida incluyen decisiones y acciones sobre oportunidades de mejora continua?",
+                "respuesta": "Las salidas suelen contener decisiones concretas y planes de acción para mejoras, con responsables y plazos, aunque la ejecución depende de la priorización estratégica."
+              },
+              {
+                "id_pregunta": "9.3.2.2",
+                "pregunta": "¿Se documentan las necesidades de cambio en el sistema de gestión de la calidad, incluidas necesidades de recursos?",
+                "respuesta": "Se registran las decisiones sobre cambios y requerimientos de recursos y se conservan como evidencia de la revisión, facilitando el seguimiento y la rendición de cuentas."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
